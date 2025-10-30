@@ -1,0 +1,878 @@
+[
+  {
+    "value": 180,
+    "name": "Abomination"
+  },
+  {
+    "value": 191,
+    "name": "Abyssal"
+  },
+  {
+    "value": 97,
+    "name": "Acanthite"
+  },
+  {
+    "value": 187,
+    "name": "Achilles"
+  },
+  {
+    "value": 206,
+    "name": "Agave"
+  },
+  {
+    "value": 129,
+    "name": "Airglow"
+  },
+  {
+    "value": 192,
+    "name": "Akhlut"
+  },
+  {
+    "value": 60,
+    "name": "Almond"
+  },
+  {
+    "value": 220,
+    "name": "Amaroq"
+  },
+  {
+    "value": 45,
+    "name": "Amber"
+  },
+  {
+    "value": 144,
+    "name": "Amor"
+  },
+  {
+    "value": 142,
+    "name": "Annwn"
+  },
+  {
+    "value": 18,
+    "name": "Antler"
+  },
+  {
+    "value": 186,
+    "name": "Antumbra"
+  },
+  {
+    "value": 148,
+    "name": "Apex"
+  },
+  {
+    "value": 48,
+    "name": "Apricot"
+  },
+  {
+    "value": 174,
+    "name": "Aquamarine"
+  },
+  {
+    "value": 93,
+    "name": "Argent"
+  },
+  {
+    "value": 30,
+    "name": "Arkose"
+  },
+  {
+    "value": 132,
+    "name": "Artemis"
+  },
+  {
+    "value": 96,
+    "name": "Ashen"
+  },
+  {
+    "value": 173,
+    "name": "Aspen"
+  },
+  {
+    "value": 62,
+    "name": "Auburn"
+  },
+  {
+    "value": 131,
+    "name": "Badger"
+  },
+  {
+    "value": 178,
+    "name": "Beast"
+  },
+  {
+    "value": 162,
+    "name": "Bedrock"
+  },
+  {
+    "value": 49,
+    "name": "Beige"
+  },
+  {
+    "value": 175,
+    "name": "Beryl"
+  },
+  {
+    "value": 147,
+    "name": "Biform"
+  },
+  {
+    "value": 112,
+    "name": "Biotite"
+  },
+  {
+    "value": 12,
+    "name": "Birch"
+  },
+  {
+    "value": 7,
+    "name": "Black"
+  },
+  {
+    "value": 17,
+    "name": "Blonde"
+  },
+  {
+    "value": 28,
+    "name": "Blue"
+  },
+  {
+    "value": 137,
+    "name": "Blueschist"
+  },
+  {
+    "value": 43,
+    "name": "Brass"
+  },
+  {
+    "value": 59,
+    "name": "Bronze"
+  },
+  {
+    "value": 35,
+    "name": "Brown"
+  },
+  {
+    "value": 19,
+    "name": "Buff"
+  },
+  {
+    "value": 130,
+    "name": "Caelum"
+  },
+  {
+    "value": 73,
+    "name": "Calcite"
+  },
+  {
+    "value": 27,
+    "name": "Caramel"
+  },
+  {
+    "value": 181,
+    "name": "Caribou"
+  },
+  {
+    "value": 169,
+    "name": "Cedar"
+  },
+  {
+    "value": 211,
+    "name": "Cerulean"
+  },
+  {
+    "value": 3,
+    "name": "Chert"
+  },
+  {
+    "value": 20,
+    "name": "Chestnut"
+  },
+  {
+    "value": 33,
+    "name": "Chocolate"
+  },
+  {
+    "value": 94,
+    "name": "Chromium"
+  },
+  {
+    "value": 153,
+    "name": "Chrysoberyl"
+  },
+  {
+    "value": 127,
+    "name": "Clover"
+  },
+  {
+    "value": 82,
+    "name": "Cocoa"
+  },
+  {
+    "value": 149,
+    "name": "Coot"
+  },
+  {
+    "value": 170,
+    "name": "Coquina"
+  },
+  {
+    "value": 157,
+    "name": "Corrosion"
+  },
+  {
+    "value": 196,
+    "name": "Corrupt"
+  },
+  {
+    "value": 139,
+    "name": "Corundum"
+  },
+  {
+    "value": 22,
+    "name": "Cream"
+  },
+  {
+    "value": 99,
+    "name": "Cream Darker"
+  },
+  {
+    "value": 24,
+    "name": "Cream Lighter"
+  },
+  {
+    "value": 189,
+    "name": "Crystal"
+  },
+  {
+    "value": 146,
+    "name": "Cynthia"
+  },
+  {
+    "value": 34,
+    "name": "Dark Brown"
+  },
+  {
+    "value": 171,
+    "name": "Dark Fawn"
+  },
+  {
+    "value": 78,
+    "name": "Denim"
+  },
+  {
+    "value": 222,
+    "name": "Diaelum"
+  },
+  {
+    "value": 136,
+    "name": "Diana"
+  },
+  {
+    "value": 68,
+    "name": "Dinar"
+  },
+  {
+    "value": 176,
+    "name": "Diopside"
+  },
+  {
+    "value": 117,
+    "name": "Diorite"
+  },
+  {
+    "value": 69,
+    "name": "Doubloon"
+  },
+  {
+    "value": 111,
+    "name": "Dravite"
+  },
+  {
+    "value": 70,
+    "name": "Ducat"
+  },
+  {
+    "value": 88,
+    "name": "Dust"
+  },
+  {
+    "value": 110,
+    "name": "Ebony"
+  },
+  {
+    "value": 197,
+    "name": "Faelcu"
+  },
+  {
+    "value": 172,
+    "name": "Fawn"
+  },
+  {
+    "value": 118,
+    "name": "Feldspar"
+  },
+  {
+    "value": 200,
+    "name": "Fenestra"
+  },
+  {
+    "value": 52,
+    "name": "Flint"
+  },
+  {
+    "value": 109,
+    "name": "Fox"
+  },
+  {
+    "value": 185,
+    "name": "Fuath"
+  },
+  {
+    "value": 51,
+    "name": "Galena"
+  },
+  {
+    "value": 182,
+    "name": "Ghost"
+  },
+  {
+    "value": 23,
+    "name": "Glaucous"
+  },
+  {
+    "value": 204,
+    "name": "Glownoise"
+  },
+  {
+    "value": 47,
+    "name": "Gold"
+  },
+  {
+    "value": 44,
+    "name": "Gold Darker"
+  },
+  {
+    "value": 76,
+    "name": "Gold Lighter"
+  },
+  {
+    "value": 106,
+    "name": "Goldenrod"
+  },
+  {
+    "value": 166,
+    "name": "Gravel"
+  },
+  {
+    "value": 9,
+    "name": "Gray"
+  },
+  {
+    "value": 10,
+    "name": "Gray Darker"
+  },
+  {
+    "value": 11,
+    "name": "Gray Lighter"
+  },
+  {
+    "value": 158,
+    "name": "Greisen"
+  },
+  {
+    "value": 161,
+    "name": "Grossular"
+  },
+  {
+    "value": 46,
+    "name": "Grulla"
+  },
+  {
+    "value": 198,
+    "name": "Gwyrdd"
+  },
+  {
+    "value": 205,
+    "name": "Hadal"
+  },
+  {
+    "value": 221,
+    "name": "Hecate"
+  },
+  {
+    "value": 71,
+    "name": "Henna"
+  },
+  {
+    "value": 98,
+    "name": "Honey"
+  },
+  {
+    "value": 36,
+    "name": "Honeydew"
+  },
+  {
+    "value": 138,
+    "name": "Hornfels"
+  },
+  {
+    "value": 95,
+    "name": "Howlite"
+  },
+  {
+    "value": 193,
+    "name": "Hurricane"
+  },
+  {
+    "value": 145,
+    "name": "Hydrangea"
+  },
+  {
+    "value": 2,
+    "name": "Iridium"
+  },
+  {
+    "value": 140,
+    "name": "Iron"
+  },
+  {
+    "value": 61,
+    "name": "Isabel"
+  },
+  {
+    "value": 42,
+    "name": "Jacinthe"
+  },
+  {
+    "value": 53,
+    "name": "Jet"
+  },
+  {
+    "value": 21,
+    "name": "Khaki"
+  },
+  {
+    "value": 135,
+    "name": "Kin"
+  },
+  {
+    "value": 154,
+    "name": "Larimar"
+  },
+  {
+    "value": 55,
+    "name": "Lavender"
+  },
+  {
+    "value": 201,
+    "name": "Leucippus"
+  },
+  {
+    "value": 56,
+    "name": "Lilac"
+  },
+  {
+    "value": 75,
+    "name": "Lily"
+  },
+  {
+    "value": 32,
+    "name": "Liver"
+  },
+  {
+    "value": 124,
+    "name": "Losna"
+  },
+  {
+    "value": 123,
+    "name": "Luna"
+  },
+  {
+    "value": 156,
+    "name": "Lupin"
+  },
+  {
+    "value": 108,
+    "name": "Magnolia"
+  },
+  {
+    "value": 152,
+    "name": "Malachite"
+  },
+  {
+    "value": 40,
+    "name": "Maltese"
+  },
+  {
+    "value": 163,
+    "name": "Marble"
+  },
+  {
+    "value": 14,
+    "name": "Marengo"
+  },
+  {
+    "value": 209,
+    "name": "Marsh"
+  },
+  {
+    "value": 151,
+    "name": "Megalodon"
+  },
+  {
+    "value": 89,
+    "name": "Melchior"
+  },
+  {
+    "value": 133,
+    "name": "Merged"
+  },
+  {
+    "value": 167,
+    "name": "Mineral"
+  },
+  {
+    "value": 214,
+    "name": "Mirage"
+  },
+  {
+    "value": 215,
+    "name": "Mist"
+  },
+  {
+    "value": 64,
+    "name": "Mojave"
+  },
+  {
+    "value": 194,
+    "name": "Monster"
+  },
+  {
+    "value": 125,
+    "name": "Moonlight"
+  },
+  {
+    "value": 199,
+    "name": "Moonloss"
+  },
+  {
+    "value": 126,
+    "name": "Moss"
+  },
+  {
+    "value": 120,
+    "name": "Nepheline"
+  },
+  {
+    "value": 143,
+    "name": "Nightchill"
+  },
+  {
+    "value": 208,
+    "name": "Nightshade"
+  },
+  {
+    "value": 113,
+    "name": "Nocturne"
+  },
+  {
+    "value": 84,
+    "name": "Obsidian"
+  },
+  {
+    "value": 219,
+    "name": "Odium"
+  },
+  {
+    "value": 8,
+    "name": "Onyx"
+  },
+  {
+    "value": 31,
+    "name": "Opal"
+  },
+  {
+    "value": 80,
+    "name": "Oroide"
+  },
+  {
+    "value": 38,
+    "name": "Pale"
+  },
+  {
+    "value": 101,
+    "name": "Peach"
+  },
+  {
+    "value": 67,
+    "name": "Pearl"
+  },
+  {
+    "value": 81,
+    "name": "Pecan"
+  },
+  {
+    "value": 177,
+    "name": "Penumbra"
+  },
+  {
+    "value": 1,
+    "name": "Pewter"
+  },
+  {
+    "value": 105,
+    "name": "Piasa"
+  },
+  {
+    "value": 165,
+    "name": "Pumice"
+  },
+  {
+    "value": 72,
+    "name": "Pyrope"
+  },
+  {
+    "value": 86,
+    "name": "Quartz"
+  },
+  {
+    "value": 217,
+    "name": "Rain"
+  },
+  {
+    "value": 66,
+    "name": "Realgar"
+  },
+  {
+    "value": 37,
+    "name": "Red"
+  },
+  {
+    "value": 202,
+    "name": "Reef"
+  },
+  {
+    "value": 92,
+    "name": "Rime"
+  },
+  {
+    "value": 159,
+    "name": "Rufous"
+  },
+  {
+    "value": 26,
+    "name": "Russet"
+  },
+  {
+    "value": 115,
+    "name": "Rust"
+  },
+  {
+    "value": 41,
+    "name": "Saffron"
+  },
+  {
+    "value": 164,
+    "name": "Salt"
+  },
+  {
+    "value": 16,
+    "name": "Sandy"
+  },
+  {
+    "value": 188,
+    "name": "Sappho"
+  },
+  {
+    "value": 29,
+    "name": "Sarder"
+  },
+  {
+    "value": 65,
+    "name": "Seal"
+  },
+  {
+    "value": 122,
+    "name": "Selene"
+  },
+  {
+    "value": 195,
+    "name": "Selunia"
+  },
+  {
+    "value": 83,
+    "name": "Sepia"
+  },
+  {
+    "value": 79,
+    "name": "Serpentine"
+  },
+  {
+    "value": 100,
+    "name": "Shell"
+  },
+  {
+    "value": 184,
+    "name": "Sidhe"
+  },
+  {
+    "value": 6,
+    "name": "Silver"
+  },
+  {
+    "value": 91,
+    "name": "Siqoq"
+  },
+  {
+    "value": 77,
+    "name": "Skarn"
+  },
+  {
+    "value": 203,
+    "name": "Skull"
+  },
+  {
+    "value": 121,
+    "name": "Sky"
+  },
+  {
+    "value": 85,
+    "name": "Slate"
+  },
+  {
+    "value": 210,
+    "name": "Snakeroot"
+  },
+  {
+    "value": 87,
+    "name": "Snow"
+  },
+  {
+    "value": 4,
+    "name": "Sphalerite"
+  },
+  {
+    "value": 190,
+    "name": "Spore"
+  },
+  {
+    "value": 155,
+    "name": "Squid"
+  },
+  {
+    "value": 5,
+    "name": "Steele"
+  },
+  {
+    "value": 116,
+    "name": "Sterling"
+  },
+  {
+    "value": 134,
+    "name": "Storm"
+  },
+  {
+    "value": 50,
+    "name": "Striped Flint"
+  },
+  {
+    "value": 103,
+    "name": "Sulphur"
+  },
+  {
+    "value": 39,
+    "name": "Tawny"
+  },
+  {
+    "value": 102,
+    "name": "Teardrop"
+  },
+  {
+    "value": 179,
+    "name": "Tempest"
+  },
+  {
+    "value": 213,
+    "name": "Tide"
+  },
+  {
+    "value": 90,
+    "name": "Titanium"
+  },
+  {
+    "value": 207,
+    "name": "Tobacco"
+  },
+  {
+    "value": 104,
+    "name": "Tombac"
+  },
+  {
+    "value": 150,
+    "name": "Topaz"
+  },
+  {
+    "value": 114,
+    "name": "Tuff"
+  },
+  {
+    "value": 107,
+    "name": "Tumbleweed"
+  },
+  {
+    "value": 212,
+    "name": "Tungsten"
+  },
+  {
+    "value": 128,
+    "name": "Turquoise"
+  },
+  {
+    "value": 183,
+    "name": "Umbra"
+  },
+  {
+    "value": 74,
+    "name": "Vanilla"
+  },
+  {
+    "value": 216,
+    "name": "Vapor"
+  },
+  {
+    "value": 168,
+    "name": "Walnut"
+  },
+  {
+    "value": 13,
+    "name": "White"
+  },
+  {
+    "value": 25,
+    "name": "Willow"
+  },
+  {
+    "value": 218,
+    "name": "Windstorm"
+  },
+  {
+    "value": 141,
+    "name": "Wisp"
+  },
+  {
+    "value": 63,
+    "name": "Wulfenite"
+  },
+  {
+    "value": 160,
+    "name": "Xanthic"
+  },
+  {
+    "value": 119,
+    "name": "Yellow"
+  },
+  {
+    "value": 58,
+    "name": "Zircon"
+  }
+]

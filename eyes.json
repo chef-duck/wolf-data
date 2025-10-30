@@ -1,0 +1,574 @@
+[
+  {
+    "value": 1,
+    "name": "Amber"
+  },
+  {
+    "value": 78,
+    "name": "Astrum"
+  },
+  {
+    "value": 23,
+    "name": "Azure"
+  },
+  {
+    "value": 34,
+    "name": "Bioluminescent Blue"
+  },
+  {
+    "value": 31,
+    "name": "Bioluminescent Indigo"
+  },
+  {
+    "value": 33,
+    "name": "Bioluminescent Teal"
+  },
+  {
+    "value": 105,
+    "name": "Biophoton"
+  },
+  {
+    "value": 111,
+    "name": "Bismuth"
+  },
+  {
+    "value": 2,
+    "name": "Black"
+  },
+  {
+    "value": 44,
+    "name": "Blend"
+  },
+  {
+    "value": 113,
+    "name": "Blood Eclipse"
+  },
+  {
+    "value": 144,
+    "name": "Blood Moon"
+  },
+  {
+    "value": 75,
+    "name": "Bloodhound"
+  },
+  {
+    "value": 3,
+    "name": "Blue"
+  },
+  {
+    "value": 82,
+    "name": "Blue Moon"
+  },
+  {
+    "value": 66,
+    "name": "Bone"
+  },
+  {
+    "value": 4,
+    "name": "Brown"
+  },
+  {
+    "value": 141,
+    "name": "Calamity"
+  },
+  {
+    "value": 68,
+    "name": "Carapace"
+  },
+  {
+    "value": 62,
+    "name": "Cetacean"
+  },
+  {
+    "value": 87,
+    "name": "Changeling"
+  },
+  {
+    "value": 101,
+    "name": "Charged Blue Moon"
+  },
+  {
+    "value": 70,
+    "name": "Chestnut Brown"
+  },
+  {
+    "value": 52,
+    "name": "Clay"
+  },
+  {
+    "value": 51,
+    "name": "Cold"
+  },
+  {
+    "value": 69,
+    "name": "Copper"
+  },
+  {
+    "value": 67,
+    "name": "Crotalus"
+  },
+  {
+    "value": 45,
+    "name": "Cryptid"
+  },
+  {
+    "value": 94,
+    "name": "Dark Eclipse"
+  },
+  {
+    "value": 127,
+    "name": "Dark Glass"
+  },
+  {
+    "value": 55,
+    "name": "Dark Hazel"
+  },
+  {
+    "value": 25,
+    "name": "Dust"
+  },
+  {
+    "value": 42,
+    "name": "Electric Blue"
+  },
+  {
+    "value": 59,
+    "name": "Electric Green"
+  },
+  {
+    "value": 47,
+    "name": "Electric Pink"
+  },
+  {
+    "value": 61,
+    "name": "Electric White"
+  },
+  {
+    "value": 97,
+    "name": "Enzyme"
+  },
+  {
+    "value": 112,
+    "name": "Essence - Dream"
+  },
+  {
+    "value": 49,
+    "name": "Fae"
+  },
+  {
+    "value": 81,
+    "name": "Fearsome"
+  },
+  {
+    "value": 22,
+    "name": "Fox"
+  },
+  {
+    "value": 56,
+    "name": "Frost"
+  },
+  {
+    "value": 107,
+    "name": "Fungi"
+  },
+  {
+    "value": 21,
+    "name": "Glass"
+  },
+  {
+    "value": 99,
+    "name": "Goat Sucker"
+  },
+  {
+    "value": 135,
+    "name": "Gold"
+  },
+  {
+    "value": 5,
+    "name": "Gray"
+  },
+  {
+    "value": 132,
+    "name": "Gray Blue"
+  },
+  {
+    "value": 133,
+    "name": "Gray Green"
+  },
+  {
+    "value": 6,
+    "name": "Green"
+  },
+  {
+    "value": 84,
+    "name": "Halo"
+  },
+  {
+    "value": 7,
+    "name": "Hazel"
+  },
+  {
+    "value": 115,
+    "name": "Hetero Amber & Gray"
+  },
+  {
+    "value": 14,
+    "name": "Hetero Black & White"
+  },
+  {
+    "value": 16,
+    "name": "Hetero Blue & Brown"
+  },
+  {
+    "value": 126,
+    "name": "Hetero Bone & Smoke"
+  },
+  {
+    "value": 17,
+    "name": "Hetero Brown & Blue"
+  },
+  {
+    "value": 116,
+    "name": "Hetero Gray & Amber"
+  },
+  {
+    "value": 117,
+    "name": "Hetero Green & Yellow"
+  },
+  {
+    "value": 120,
+    "name": "Hetero Hazel & Husky"
+  },
+  {
+    "value": 124,
+    "name": "Hetero Holly & Novus"
+  },
+  {
+    "value": 119,
+    "name": "Hetero Husky & Hazel"
+  },
+  {
+    "value": 123,
+    "name": "Hetero Novus & Holly"
+  },
+  {
+    "value": 121,
+    "name": "Hetero Red & Storm"
+  },
+  {
+    "value": 125,
+    "name": "Hetero Smoke & Bone"
+  },
+  {
+    "value": 122,
+    "name": "Hetero Storm & Red"
+  },
+  {
+    "value": 15,
+    "name": "Hetero White & Black"
+  },
+  {
+    "value": 118,
+    "name": "Hetero Yellow & Green"
+  },
+  {
+    "value": 96,
+    "name": "Hevl"
+  },
+  {
+    "value": 53,
+    "name": "Holly"
+  },
+  {
+    "value": 71,
+    "name": "Honey"
+  },
+  {
+    "value": 88,
+    "name": "Horizon"
+  },
+  {
+    "value": 80,
+    "name": "Hurricane"
+  },
+  {
+    "value": 74,
+    "name": "Husky"
+  },
+  {
+    "value": 8,
+    "name": "Ice"
+  },
+  {
+    "value": 131,
+    "name": "Ice Blue"
+  },
+  {
+    "value": 130,
+    "name": "Ice Green"
+  },
+  {
+    "value": 19,
+    "name": "Indigo"
+  },
+  {
+    "value": 39,
+    "name": "Insomnium"
+  },
+  {
+    "value": 109,
+    "name": "Lavender"
+  },
+  {
+    "value": 128,
+    "name": "Light Glass"
+  },
+  {
+    "value": 95,
+    "name": "Luciferin"
+  },
+  {
+    "value": 28,
+    "name": "Lumino"
+  },
+  {
+    "value": 129,
+    "name": "Luminosa"
+  },
+  {
+    "value": 77,
+    "name": "Lunisolar"
+  },
+  {
+    "value": 24,
+    "name": "Lux"
+  },
+  {
+    "value": 93,
+    "name": "Mascon"
+  },
+  {
+    "value": 73,
+    "name": "Mercury"
+  },
+  {
+    "value": 110,
+    "name": "Mint"
+  },
+  {
+    "value": 98,
+    "name": "Missouri Monster"
+  },
+  {
+    "value": 89,
+    "name": "Moonbeam"
+  },
+  {
+    "value": 36,
+    "name": "Moonglow"
+  },
+  {
+    "value": 48,
+    "name": "Moonlight"
+  },
+  {
+    "value": 43,
+    "name": "Moonshine"
+  },
+  {
+    "value": 106,
+    "name": "Neomenia"
+  },
+  {
+    "value": 108,
+    "name": "Neutrum"
+  },
+  {
+    "value": 30,
+    "name": "Nightglow"
+  },
+  {
+    "value": 54,
+    "name": "Novus"
+  },
+  {
+    "value": 60,
+    "name": "Nox"
+  },
+  {
+    "value": 13,
+    "name": "Olive"
+  },
+  {
+    "value": 12,
+    "name": "Orange"
+  },
+  {
+    "value": 91,
+    "name": "Orchid"
+  },
+  {
+    "value": 134,
+    "name": "Pale Gold"
+  },
+  {
+    "value": 136,
+    "name": "Pale Red"
+  },
+  {
+    "value": 58,
+    "name": "Passion"
+  },
+  {
+    "value": 142,
+    "name": "Photophore"
+  },
+  {
+    "value": 65,
+    "name": "Puma"
+  },
+  {
+    "value": 20,
+    "name": "Purple"
+  },
+  {
+    "value": 92,
+    "name": "Radiant"
+  },
+  {
+    "value": 83,
+    "name": "Rangifer"
+  },
+  {
+    "value": 9,
+    "name": "Red"
+  },
+  {
+    "value": 104,
+    "name": "Rhudd"
+  },
+  {
+    "value": 57,
+    "name": "Rose"
+  },
+  {
+    "value": 140,
+    "name": "Rougarou"
+  },
+  {
+    "value": 29,
+    "name": "Saeculorum"
+  },
+  {
+    "value": 35,
+    "name": "Sapphire"
+  },
+  {
+    "value": 114,
+    "name": "Saprophyte"
+  },
+  {
+    "value": 41,
+    "name": "Saros"
+  },
+  {
+    "value": 63,
+    "name": "Scallop"
+  },
+  {
+    "value": 40,
+    "name": "Selenelion"
+  },
+  {
+    "value": 79,
+    "name": "Serene"
+  },
+  {
+    "value": 139,
+    "name": "Shagamaw"
+  },
+  {
+    "value": 26,
+    "name": "Smoke"
+  },
+  {
+    "value": 100,
+    "name": "Snallygaster"
+  },
+  {
+    "value": 103,
+    "name": "Solar Eclipse"
+  },
+  {
+    "value": 137,
+    "name": "Solstice"
+  },
+  {
+    "value": 37,
+    "name": "Somnium"
+  },
+  {
+    "value": 143,
+    "name": "Soteira"
+  },
+  {
+    "value": 85,
+    "name": "Spectral"
+  },
+  {
+    "value": 138,
+    "name": "Spectrum"
+  },
+  {
+    "value": 76,
+    "name": "Steel Blue"
+  },
+  {
+    "value": 90,
+    "name": "Stellaris"
+  },
+  {
+    "value": 27,
+    "name": "Storm"
+  },
+  {
+    "value": 50,
+    "name": "Total Eclipse"
+  },
+  {
+    "value": 46,
+    "name": "Tranquil"
+  },
+  {
+    "value": 102,
+    "name": "Vile"
+  },
+  {
+    "value": 18,
+    "name": "Violet"
+  },
+  {
+    "value": 86,
+    "name": "Vision"
+  },
+  {
+    "value": 72,
+    "name": "Warm Gray"
+  },
+  {
+    "value": 10,
+    "name": "White"
+  },
+  {
+    "value": 32,
+    "name": "Wisp"
+  },
+  {
+    "value": 64,
+    "name": "Yagou"
+  },
+  {
+    "value": 11,
+    "name": "Yellow"
+  }
+]

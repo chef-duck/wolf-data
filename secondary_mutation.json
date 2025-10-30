@@ -1,0 +1,77 @@
+[
+  {
+    "value": "",
+    "name": "None",
+    "overlay": ""
+  },
+  {
+    "value": "albinism",
+    "name": "Albinism",
+    "overlay": 1
+  },
+  {
+    "value": "hereditarycataracts",
+    "name": "Hereditary Cataracts",
+    "overlay": 1
+  },
+  {
+    "value": "melanism",
+    "name": "Melanism",
+    "overlay": 1
+  },
+  {
+    "value": "patchesmottled",
+    "name": "Patches: Mottled",
+    "overlay": 1
+  },
+  {
+    "value": "patchespointed",
+    "name": "Patches: Pointed",
+    "overlay": 1
+  },
+  {
+    "value": "patchessplit",
+    "name": "Patches: Split",
+    "overlay": 1
+  },
+  {
+    "value": "piebaldbiewer",
+    "name": "Piebald: Biewer",
+    "overlay": 1
+  },
+  {
+    "value": "piebalddalmatian",
+    "name": "Piebald: Dalmatian",
+    "overlay": 1
+  },
+  {
+    "value": "piebalddip",
+    "name": "Piebald: Dip",
+    "overlay": 1
+  },
+  {
+    "value": "piebaldfrontal",
+    "name": "Piebald: Frontal",
+    "overlay": 1
+  },
+  {
+    "value": "piebaldtorn",
+    "name": "Piebald: Torn",
+    "overlay": 1
+  },
+  {
+    "value": "piebalduneven",
+    "name": "Piebald: Uneven",
+    "overlay": 1
+  },
+  {
+    "value": "piebaldzerdava",
+    "name": "Piebald: Zerdava",
+    "overlay": 1
+  },
+  {
+    "value": "spontaneousblindness",
+    "name": "Spontaneous Blindness",
+    "overlay": 1
+  }
+]

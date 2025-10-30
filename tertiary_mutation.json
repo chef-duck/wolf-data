@@ -1,0 +1,27 @@
+[
+  {
+    "value": "",
+    "name": "None",
+    "overlay": ""
+  },
+  {
+    "value": "hyperdontia",
+    "name": "Hyperdontia",
+    "overlay": 1
+  },
+  {
+    "value": "macrodontia",
+    "name": "Macrodontia",
+    "overlay": 1
+  },
+  {
+    "value": "overgrowntongue",
+    "name": "Overgrown Tongue",
+    "overlay": 1
+  },
+  {
+    "value": "toothless",
+    "name": "Toothless",
+    "overlay": 1
+  }
+]

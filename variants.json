@@ -1,0 +1,56 @@
+[
+  {
+    "value": "default",
+    "name": "Default",
+    "min": "",
+    "max": ""
+  },
+  {
+    "value": "brachycephaly",
+    "name": "Brachycephaly",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "value": "conjoinedtwins",
+    "name": "Conjoined Twins",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "value": "nesting",
+    "name": "Motherly",
+    "min": 24,
+    "max": 24
+  },
+  {
+    "value": "polycephaly",
+    "name": "Polycephaly",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "value": "polymelia",
+    "name": "Polymelia",
+    "min": 8,
+    "max": 8
+  },
+  {
+    "value": "relaxed",
+    "name": "Relaxed",
+    "min": 24,
+    "max": 24
+  },
+  {
+    "value": "sentinel",
+    "name": "Sentinel",
+    "min": 24,
+    "max": 24
+  },
+  {
+    "value": "sirenomelia",
+    "name": "Sirenomelia",
+    "min": 8,
+    "max": 8
+  }
+]

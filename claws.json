@@ -1,0 +1,202 @@
+[
+  {
+    "value": 42,
+    "name": "Aarluk"
+  },
+  {
+    "value": 43,
+    "name": "Anomaly"
+  },
+  {
+    "value": 38,
+    "name": "Anteros"
+  },
+  {
+    "value": 37,
+    "name": "Antumbral"
+  },
+  {
+    "value": 20,
+    "name": "Apollo"
+  },
+  {
+    "value": 4,
+    "name": "Bistre"
+  },
+  {
+    "value": 5,
+    "name": "Black"
+  },
+  {
+    "value": 23,
+    "name": "Blend"
+  },
+  {
+    "value": 6,
+    "name": "Bone"
+  },
+  {
+    "value": 7,
+    "name": "Brown"
+  },
+  {
+    "value": 26,
+    "name": "Chill"
+  },
+  {
+    "value": 21,
+    "name": "Conflux"
+  },
+  {
+    "value": 49,
+    "name": "Coral"
+  },
+  {
+    "value": 32,
+    "name": "Corrupt"
+  },
+  {
+    "value": 28,
+    "name": "Cynthius"
+  },
+  {
+    "value": 1,
+    "name": "Dark"
+  },
+  {
+    "value": 24,
+    "name": "Dius"
+  },
+  {
+    "value": 29,
+    "name": "Duorum"
+  },
+  {
+    "value": 16,
+    "name": "Fern"
+  },
+  {
+    "value": 25,
+    "name": "Fey"
+  },
+  {
+    "value": 40,
+    "name": "Fungus"
+  },
+  {
+    "value": 39,
+    "name": "Glazed"
+  },
+  {
+    "value": 2,
+    "name": "Gray"
+  },
+  {
+    "value": 33,
+    "name": "Grime"
+  },
+  {
+    "value": 48,
+    "name": "Leto"
+  },
+  {
+    "value": 3,
+    "name": "Light"
+  },
+  {
+    "value": 13,
+    "name": "Lunar"
+  },
+  {
+    "value": 14,
+    "name": "Lusxnei"
+  },
+  {
+    "value": 18,
+    "name": "Moonbow"
+  },
+  {
+    "value": 22,
+    "name": "Mud"
+  },
+  {
+    "value": 47,
+    "name": "Mycelium"
+  },
+  {
+    "value": 15,
+    "name": "Noctiluca"
+  },
+  {
+    "value": 41,
+    "name": "Ooze"
+  },
+  {
+    "value": 8,
+    "name": "Oxblood"
+  },
+  {
+    "value": 36,
+    "name": "Peat"
+  },
+  {
+    "value": 30,
+    "name": "Penumbral"
+  },
+  {
+    "value": 9,
+    "name": "Root"
+  },
+  {
+    "value": 27,
+    "name": "Rouge"
+  },
+  {
+    "value": 19,
+    "name": "Sacer"
+  },
+  {
+    "value": 10,
+    "name": "Sandy"
+  },
+  {
+    "value": 50,
+    "name": "Seep"
+  },
+  {
+    "value": 12,
+    "name": "Selenite"
+  },
+  {
+    "value": 34,
+    "name": "Spectre"
+  },
+  {
+    "value": 44,
+    "name": "Squall"
+  },
+  {
+    "value": 46,
+    "name": "Tywyll"
+  },
+  {
+    "value": 35,
+    "name": "Umbral"
+  },
+  {
+    "value": 17,
+    "name": "Verdigris"
+  },
+  {
+    "value": 45,
+    "name": "Vile"
+  },
+  {
+    "value": 11,
+    "name": "White"
+  },
+  {
+    "value": 31,
+    "name": "Wild"
+  }
+]
