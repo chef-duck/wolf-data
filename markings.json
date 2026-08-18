@@ -228,8 +228,20 @@
     "opacity": 100
   },
   {
+    "value": 2272,
+    "name": "Amor Gallus",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
     "value": 967,
     "name": "Amor Inverted Cross",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2273,
+    "name": "Amor Mosaic",
     "tier": 3,
     "opacity": 100
   },
@@ -312,6 +324,30 @@
     "opacity": 100
   },
   {
+    "value": 2138,
+    "name": "Aotrom Cross",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2135,
+    "name": "Aotrom Inuit Unders",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2136,
+    "name": "Aotrom Sallander",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2137,
+    "name": "Aotrom Wild Stripes",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
     "value": 1988,
     "name": "Argent Arapawa Coat",
     "tier": 6,
@@ -339,6 +375,12 @@
     "value": 1992,
     "name": "Argent Bottoms",
     "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2233,
+    "name": "Argent Brindle",
+    "tier": 10,
     "opacity": 100
   },
   {
@@ -510,6 +552,18 @@
     "opacity": 100
   },
   {
+    "value": 2259,
+    "name": "Argent Merle Heavy",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2258,
+    "name": "Argent Merle Scarce",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
     "value": 2021,
     "name": "Argent Muzzle",
     "tier": 6,
@@ -660,8 +714,44 @@
     "opacity": 100
   },
   {
+    "value": 2158,
+    "name": "Artemis Argus",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2159,
+    "name": "Artemis Aurora",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2157,
+    "name": "Artemis Crawl",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2160,
+    "name": "Artemis Cross",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2155,
+    "name": "Artemis Fringe",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
     "value": 885,
     "name": "Artemis Inverted Smudge",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2156,
+    "name": "Artemis Notches",
     "tier": 3,
     "opacity": 100
   },
@@ -678,9 +768,93 @@
     "opacity": 100
   },
   {
+    "value": 2161,
+    "name": "Artemis Pulse",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
     "value": 888,
     "name": "Artemis Sallander",
     "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2162,
+    "name": "Artemis Wraith",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2171,
+    "name": "Arthia Argus",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2163,
+    "name": "Arthia Aurora",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2172,
+    "name": "Arthia Crawl",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2164,
+    "name": "Arthia Cross",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2174,
+    "name": "Arthia Fringe",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2168,
+    "name": "Arthia Inverted Smudge",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2173,
+    "name": "Arthia Notches",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2169,
+    "name": "Arthia Ornate Stripes",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2170,
+    "name": "Arthia Ornate Waves",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2165,
+    "name": "Arthia Pulse",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2167,
+    "name": "Arthia Sallander",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2166,
+    "name": "Arthia Wraith",
+    "tier": 6,
     "opacity": 100
   },
   {
@@ -723,6 +897,12 @@
     "value": 1173,
     "name": "Aspen Bottoms",
     "tier": 0,
+    "opacity": 100
+  },
+  {
+    "value": 2208,
+    "name": "Aspen Brindle",
+    "tier": 4,
     "opacity": 100
   },
   {
@@ -794,6 +974,12 @@
   {
     "value": 1374,
     "name": "Aspen Freckles",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2275,
+    "name": "Aspen Gallus",
     "tier": 3,
     "opacity": 100
   },
@@ -921,6 +1107,12 @@
     "value": 1145,
     "name": "Aspen Medium Husky",
     "tier": 1,
+    "opacity": 100
+  },
+  {
+    "value": 2274,
+    "name": "Aspen Mosaic",
+    "tier": 3,
     "opacity": 100
   },
   {
@@ -1440,6 +1632,12 @@
     "opacity": 100
   },
   {
+    "value": 2209,
+    "name": "Beige Brindle",
+    "tier": 4,
+    "opacity": 100
+  },
+  {
     "value": 690,
     "name": "Beige Butcher",
     "tier": 1,
@@ -1788,8 +1986,50 @@
     "opacity": 100
   },
   {
+    "value": 2192,
+    "name": "Biform Cracks",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
     "value": 1378,
     "name": "Biform Freckles",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2188,
+    "name": "Biform Fringe",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2276,
+    "name": "Biform Gallus",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2193,
+    "name": "Biform Inverted Smudge",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2190,
+    "name": "Biform Lykoi",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2277,
+    "name": "Biform Mosaic",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2189,
+    "name": "Biform Nautilus",
     "tier": 3,
     "opacity": 100
   },
@@ -1812,6 +2052,12 @@
     "opacity": 100
   },
   {
+    "value": 2191,
+    "name": "Biform Shadow",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
     "value": 1824,
     "name": "Biform Splotches",
     "tier": 3,
@@ -1824,8 +2070,20 @@
     "opacity": 100
   },
   {
+    "value": 2194,
+    "name": "Biform Undercoat",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
     "value": 976,
     "name": "Biform Wild Stripes",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2195,
+    "name": "Biform Wraith",
     "tier": 3,
     "opacity": 100
   },
@@ -2028,6 +2286,12 @@
     "opacity": 100
   },
   {
+    "value": 2279,
+    "name": "Black Gallus",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
     "value": 926,
     "name": "Black Ghast",
     "tier": 3,
@@ -2088,6 +2352,12 @@
     "opacity": 100
   },
   {
+    "value": 2222,
+    "name": "Black Inverted Brindle",
+    "tier": 4,
+    "opacity": 100
+  },
+  {
     "value": 565,
     "name": "Black Inverted Cross",
     "tier": 1,
@@ -2130,9 +2400,27 @@
     "opacity": 100
   },
   {
+    "value": 2264,
+    "name": "Black Merle Heavy Patches",
+    "tier": 2,
+    "opacity": 100
+  },
+  {
     "value": 561,
     "name": "Black Merle Patches",
     "tier": 2,
+    "opacity": 100
+  },
+  {
+    "value": 2265,
+    "name": "Black Merle Scarce Patches",
+    "tier": 2,
+    "opacity": 100
+  },
+  {
+    "value": 2278,
+    "name": "Black Mosaic",
+    "tier": 3,
     "opacity": 100
   },
   {
@@ -2598,6 +2886,12 @@
     "opacity": 100
   },
   {
+    "value": 2280,
+    "name": "Brown Gallus",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
     "value": 929,
     "name": "Brown Ghast",
     "tier": 3,
@@ -2658,6 +2952,12 @@
     "opacity": 100
   },
   {
+    "value": 2223,
+    "name": "Brown Inverted Brindle",
+    "tier": 4,
+    "opacity": 100
+  },
+  {
     "value": 490,
     "name": "Brown Inverted Cross",
     "tier": 1,
@@ -2700,9 +3000,27 @@
     "opacity": 100
   },
   {
+    "value": 2267,
+    "name": "Brown Merle Heavy Patches",
+    "tier": 2,
+    "opacity": 100
+  },
+  {
     "value": 486,
     "name": "Brown Merle Patches",
     "tier": 2,
+    "opacity": 100
+  },
+  {
+    "value": 2266,
+    "name": "Brown Merle Scarce Patches",
+    "tier": 2,
+    "opacity": 100
+  },
+  {
+    "value": 2281,
+    "name": "Brown Mosaic",
+    "tier": 3,
     "opacity": 100
   },
   {
@@ -3042,6 +3360,12 @@
     "opacity": 100
   },
   {
+    "value": 2210,
+    "name": "Cedar Brindle",
+    "tier": 4,
+    "opacity": 100
+  },
+  {
     "value": 1234,
     "name": "Cedar Cape",
     "tier": 0,
@@ -3128,6 +3452,12 @@
   {
     "value": 1385,
     "name": "Cedar Freckles",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2283,
+    "name": "Cedar Gallus",
     "tier": 3,
     "opacity": 100
   },
@@ -3243,6 +3573,12 @@
     "value": 1205,
     "name": "Cedar Medium Husky",
     "tier": 1,
+    "opacity": 100
+  },
+  {
+    "value": 2282,
+    "name": "Cedar Mosaic",
+    "tier": 3,
     "opacity": 100
   },
   {
@@ -3732,6 +4068,12 @@
     "opacity": 100
   },
   {
+    "value": 2211,
+    "name": "Cream Brindle",
+    "tier": 4,
+    "opacity": 100
+  },
+  {
     "value": 693,
     "name": "Cream Butcher",
     "tier": 1,
@@ -3936,6 +4278,18 @@
     "opacity": 100
   },
   {
+    "value": 2244,
+    "name": "Cream Merle Heavy",
+    "tier": 2,
+    "opacity": 100
+  },
+  {
+    "value": 2245,
+    "name": "Cream Merle Scarce",
+    "tier": 2,
+    "opacity": 100
+  },
+  {
     "value": 438,
     "name": "Cream Muzzle Patch",
     "tier": 1,
@@ -4104,8 +4458,68 @@
     "opacity": 100
   },
   {
+    "value": 2333,
+    "name": "Cryptid Arapawa Coat",
+    "tier": 5,
+    "opacity": 100
+  },
+  {
+    "value": 2335,
+    "name": "Cryptid Crawl",
+    "tier": 5,
+    "opacity": 100
+  },
+  {
+    "value": 2332,
+    "name": "Cryptid Crestline",
+    "tier": 5,
+    "opacity": 100
+  },
+  {
+    "value": 2334,
+    "name": "Cryptid Pulse",
+    "tier": 5,
+    "opacity": 100
+  },
+  {
+    "value": 2300,
+    "name": "Crystal Blight",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2301,
+    "name": "Crystal Cracks",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2306,
+    "name": "Crystal Crescent",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2305,
+    "name": "Crystal Crestline",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2304,
+    "name": "Crystal Lykoi",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
     "value": 1366,
     "name": "Crystal Orca",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2302,
+    "name": "Crystal Ornate Blotches",
     "tier": 3,
     "opacity": 100
   },
@@ -4116,8 +4530,20 @@
     "opacity": 100
   },
   {
+    "value": 2303,
+    "name": "Crystal Pulse",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
     "value": 1368,
     "name": "Crystal Shadow",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2307,
+    "name": "Crystal Sprite",
     "tier": 3,
     "opacity": 100
   },
@@ -4128,8 +4554,20 @@
     "opacity": 100
   },
   {
+    "value": 2151,
+    "name": "Cynthia Argus",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
     "value": 968,
     "name": "Cynthia Aurora",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2152,
+    "name": "Cynthia Crawl",
     "tier": 3,
     "opacity": 100
   },
@@ -4140,8 +4578,44 @@
     "opacity": 100
   },
   {
+    "value": 2154,
+    "name": "Cynthia Fringe",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2148,
+    "name": "Cynthia Inverted Smudge",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2153,
+    "name": "Cynthia Notches",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2149,
+    "name": "Cynthia Ornate Stripes",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2150,
+    "name": "Cynthia Ornate Waves",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
     "value": 971,
     "name": "Cynthia Pulse",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2147,
+    "name": "Cynthia Sallander",
     "tier": 3,
     "opacity": 100
   },
@@ -4308,6 +4782,12 @@
     "opacity": 100
   },
   {
+    "value": 2284,
+    "name": "Dark Brown Gallus",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
     "value": 930,
     "name": "Dark Brown Ghast",
     "tier": 3,
@@ -4362,6 +4842,12 @@
     "opacity": 100
   },
   {
+    "value": 2224,
+    "name": "Dark Brown Inverted Brindle",
+    "tier": 4,
+    "opacity": 100
+  },
+  {
     "value": 395,
     "name": "Dark Brown Inverted Cross",
     "tier": 1,
@@ -4404,9 +4890,27 @@
     "opacity": 100
   },
   {
+    "value": 2268,
+    "name": "Dark Brown Merle Heavy Patches",
+    "tier": 2,
+    "opacity": 100
+  },
+  {
     "value": 391,
     "name": "Dark Brown Merle Patches",
     "tier": 2,
+    "opacity": 100
+  },
+  {
+    "value": 2269,
+    "name": "Dark Brown Merle Scarce Patches",
+    "tier": 2,
+    "opacity": 100
+  },
+  {
+    "value": 2285,
+    "name": "Dark Brown Mosaic",
+    "tier": 3,
     "opacity": 100
   },
   {
@@ -4626,6 +5130,78 @@
     "opacity": 100
   },
   {
+    "value": 2325,
+    "name": "Dark Crystal Blight",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2326,
+    "name": "Dark Crystal Cracks",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2322,
+    "name": "Dark Crystal Crescent",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2323,
+    "name": "Dark Crystal Crestline",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2321,
+    "name": "Dark Crystal Lykoi",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2320,
+    "name": "Dark Crystal Orca",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2318,
+    "name": "Dark Crystal Ornate Blotches",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2319,
+    "name": "Dark Crystal Ornate Spots",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2327,
+    "name": "Dark Crystal Pulse",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2317,
+    "name": "Dark Crystal Shadow",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2324,
+    "name": "Dark Crystal Sprite",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2316,
+    "name": "Dark Crystal Wild Stripes",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
     "value": 374,
     "name": "Deira Back Half Patch",
     "tier": 6,
@@ -4647,6 +5223,12 @@
     "value": 371,
     "name": "Deira Bottoms",
     "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2234,
+    "name": "Deira Brindle",
+    "tier": 10,
     "opacity": 100
   },
   {
@@ -5166,6 +5748,12 @@
     "opacity": 100
   },
   {
+    "value": 2241,
+    "name": "Dinar Inverted Brindle",
+    "tier": 10,
+    "opacity": 100
+  },
+  {
     "value": 328,
     "name": "Dinar Inverted Cross",
     "tier": 6,
@@ -5304,6 +5892,12 @@
     "opacity": 100
   },
   {
+    "value": 2235,
+    "name": "Doubloon Brindle",
+    "tier": 10,
+    "opacity": 100
+  },
+  {
     "value": 316,
     "name": "Doubloon Cape",
     "tier": 6,
@@ -5420,6 +6014,18 @@
   {
     "value": 302,
     "name": "Doubloon Merle",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2260,
+    "name": "Doubloon Merle Heavy",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2261,
+    "name": "Doubloon Merle Scarce",
     "tier": 6,
     "opacity": 100
   },
@@ -5556,6 +6162,12 @@
     "opacity": 100
   },
   {
+    "value": 2236,
+    "name": "Ducat Brindle",
+    "tier": 10,
+    "opacity": 100
+  },
+  {
     "value": 287,
     "name": "Ducat Cape",
     "tier": 6,
@@ -5666,6 +6278,18 @@
   {
     "value": 275,
     "name": "Ducat Merle",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2263,
+    "name": "Ducat Merle Heavy",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2262,
+    "name": "Ducat Merle Scarce",
     "tier": 6,
     "opacity": 100
   },
@@ -5844,6 +6468,12 @@
     "opacity": 100
   },
   {
+    "value": 2225,
+    "name": "Ebony Inverted Brindle",
+    "tier": 4,
+    "opacity": 100
+  },
+  {
     "value": 2052,
     "name": "Ebony Leopard Shark",
     "tier": 2,
@@ -5868,8 +6498,20 @@
     "opacity": 100
   },
   {
+    "value": 2271,
+    "name": "Ebony Merle Heavy Patches",
+    "tier": 2,
+    "opacity": 100
+  },
+  {
     "value": 2055,
     "name": "Ebony Merle Patches",
+    "tier": 2,
+    "opacity": 100
+  },
+  {
+    "value": 2270,
+    "name": "Ebony Merle Scarce Patches",
     "tier": 2,
     "opacity": 100
   },
@@ -6006,6 +6648,30 @@
     "opacity": 100
   },
   {
+    "value": 2139,
+    "name": "Gaelach Fringe",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2141,
+    "name": "Gaelach Inverted Cross",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2142,
+    "name": "Gaelach Irish",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2140,
+    "name": "Gaelach Soay Unders",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
     "value": 996,
     "name": "Ghost Carnage",
     "tier": 3,
@@ -6050,6 +6716,12 @@
   {
     "value": 1907,
     "name": "Glownoise Fringe",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2179,
+    "name": "Glownoise Light Husky",
     "tier": 6,
     "opacity": 100
   },
@@ -6111,6 +6783,12 @@
     "value": 1289,
     "name": "Gold Bottoms",
     "tier": 0,
+    "opacity": 100
+  },
+  {
+    "value": 2212,
+    "name": "Gold Brindle",
+    "tier": 4,
     "opacity": 100
   },
   {
@@ -6510,6 +7188,12 @@
     "opacity": 100
   },
   {
+    "value": 2213,
+    "name": "Gray Brindle",
+    "tier": 4,
+    "opacity": 100
+  },
+  {
     "value": 257,
     "name": "Gray Cape",
     "tier": 0,
@@ -6603,6 +7287,12 @@
     "value": 665,
     "name": "Gray Inuit Unders",
     "tier": 7,
+    "opacity": 100
+  },
+  {
+    "value": 2226,
+    "name": "Gray Inverted Brindle",
+    "tier": 4,
     "opacity": 100
   },
   {
@@ -6824,25 +7514,25 @@
   {
     "value": 1933,
     "name": "Hecate Blight",
-    "tier": 5,
+    "tier": 3,
     "opacity": 100
   },
   {
     "value": 1934,
     "name": "Hecate Cracks",
-    "tier": 5,
+    "tier": 3,
     "opacity": 100
   },
   {
     "value": 1935,
     "name": "Hecate Inverted Cross",
-    "tier": 5,
+    "tier": 3,
     "opacity": 100
   },
   {
     "value": 1936,
     "name": "Hecate Wild Stripes",
-    "tier": 5,
+    "tier": 3,
     "opacity": 100
   },
   {
@@ -6873,6 +7563,12 @@
     "value": 933,
     "name": "Henna Ghast",
     "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2227,
+    "name": "Henna Inverted Brindle",
+    "tier": 4,
     "opacity": 100
   },
   {
@@ -6914,6 +7610,30 @@
   {
     "value": 932,
     "name": "Henna Wraith",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2175,
+    "name": "Hestia Argus",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2176,
+    "name": "Hestia Crescent",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2177,
+    "name": "Hestia Ghast",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2178,
+    "name": "Hestia Shimmer",
     "tier": 3,
     "opacity": 100
   },
@@ -6963,6 +7683,12 @@
     "value": 228,
     "name": "Honey Bottoms",
     "tier": 0,
+    "opacity": 100
+  },
+  {
+    "value": 2214,
+    "name": "Honey Brindle",
+    "tier": 4,
     "opacity": 100
   },
   {
@@ -7104,6 +7830,12 @@
     "opacity": 100
   },
   {
+    "value": 2228,
+    "name": "Honey Inverted Brindle",
+    "tier": 4,
+    "opacity": 100
+  },
+  {
     "value": 213,
     "name": "Honey Inverted Cross",
     "tier": 1,
@@ -7172,6 +7904,18 @@
   {
     "value": 205,
     "name": "Honey Merle",
+    "tier": 2,
+    "opacity": 100
+  },
+  {
+    "value": 2247,
+    "name": "Honey Merle Heavy",
+    "tier": 2,
+    "opacity": 100
+  },
+  {
+    "value": 2246,
+    "name": "Honey Merle Scarce",
     "tier": 2,
     "opacity": 100
   },
@@ -7392,6 +8136,12 @@
     "opacity": 100
   },
   {
+    "value": 2287,
+    "name": "Hydrangea Gallus",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
     "value": 960,
     "name": "Hydrangea Ghast",
     "tier": 3,
@@ -7400,6 +8150,12 @@
   {
     "value": 961,
     "name": "Hydrangea Lupos",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2286,
+    "name": "Hydrangea Mosaic",
     "tier": 3,
     "opacity": 100
   },
@@ -7554,6 +8310,12 @@
     "opacity": 100
   },
   {
+    "value": 2242,
+    "name": "Iridium Inverted Brindle",
+    "tier": 10,
+    "opacity": 100
+  },
+  {
     "value": 1591,
     "name": "Iridium Inverted Cross",
     "tier": 6,
@@ -7692,6 +8454,12 @@
     "opacity": 100
   },
   {
+    "value": 2288,
+    "name": "Kin Gallus",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
     "value": 894,
     "name": "Kin Inverted Agouti",
     "tier": 3,
@@ -7700,6 +8468,12 @@
   {
     "value": 893,
     "name": "Kin Inverted Cross",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2289,
+    "name": "Kin Mosaic",
     "tier": 3,
     "opacity": 100
   },
@@ -7728,6 +8502,30 @@
     "opacity": 100
   },
   {
+    "value": 2296,
+    "name": "Koma Crawl",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2297,
+    "name": "Koma Crestline",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2298,
+    "name": "Koma Ghast",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2299,
+    "name": "Koma Peacock",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
     "value": 1812,
     "name": "Lavender Argus",
     "tier": 3,
@@ -7736,6 +8534,18 @@
   {
     "value": 1397,
     "name": "Lavender Freckles",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2291,
+    "name": "Lavender Gallus",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2290,
+    "name": "Lavender Mosaic",
     "tier": 3,
     "opacity": 100
   },
@@ -7821,6 +8631,12 @@
     "value": 2105,
     "name": "Lilac Gentle Unders",
     "tier": 8,
+    "opacity": 100
+  },
+  {
+    "value": 2229,
+    "name": "Lilac Inverted Brindle",
+    "tier": 4,
     "opacity": 100
   },
   {
@@ -7923,6 +8739,12 @@
     "value": 1553,
     "name": "Lily Back",
     "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2237,
+    "name": "Lily Brindle",
+    "tier": 10,
     "opacity": 100
   },
   {
@@ -8043,6 +8865,12 @@
     "value": 934,
     "name": "Liver Ghast",
     "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2230,
+    "name": "Liver Inverted Brindle",
+    "tier": 4,
     "opacity": 100
   },
   {
@@ -8220,6 +9048,12 @@
     "opacity": 100
   },
   {
+    "value": 2215,
+    "name": "Magnolia Brindle",
+    "tier": 4,
+    "opacity": 100
+  },
+  {
     "value": 1870,
     "name": "Magnolia Dilution",
     "tier": 8,
@@ -8343,6 +9177,12 @@
     "value": 1967,
     "name": "Marble Back Patch",
     "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2238,
+    "name": "Marble Brindle",
+    "tier": 10,
     "opacity": 100
   },
   {
@@ -8484,6 +9324,18 @@
     "opacity": 100
   },
   {
+    "value": 2292,
+    "name": "Merged Gallus",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2293,
+    "name": "Merged Mosaic",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
     "value": 892,
     "name": "Merged Ornate Waves",
     "tier": 3,
@@ -8540,6 +9392,30 @@
   {
     "value": 1414,
     "name": "Monster Wild Stripes",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2143,
+    "name": "Moondust Crescent",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2146,
+    "name": "Moondust Orca",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2144,
+    "name": "Moondust Ornate Spots",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2145,
+    "name": "Moondust Ornate Waves",
     "tier": 3,
     "opacity": 100
   },
@@ -8712,8 +9588,20 @@
     "opacity": 100
   },
   {
+    "value": 2184,
+    "name": "Nightchill Aurora",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
     "value": 956,
     "name": "Nightchill Cracks",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2180,
+    "name": "Nightchill Fringe",
     "tier": 3,
     "opacity": 100
   },
@@ -8724,8 +9612,44 @@
     "opacity": 100
   },
   {
+    "value": 2182,
+    "name": "Nightchill Lykoi",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2181,
+    "name": "Nightchill Nautilus",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2185,
+    "name": "Nightchill Patchy Unders",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2186,
+    "name": "Nightchill Shaded",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2183,
+    "name": "Nightchill Shadow",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
     "value": 957,
     "name": "Nightchill Undercoat",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2187,
+    "name": "Nightchill Wild Stripes",
     "tier": 3,
     "opacity": 100
   },
@@ -8733,6 +9657,78 @@
     "value": 958,
     "name": "Nightchill Wraith",
     "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2205,
+    "name": "Nightform Aurora",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2200,
+    "name": "Nightform Cracks",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2201,
+    "name": "Nightform Fringe",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2199,
+    "name": "Nightform Inverted Smudge",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2203,
+    "name": "Nightform Lykoi",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2202,
+    "name": "Nightform Nautilus",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2206,
+    "name": "Nightform Patchy Unders",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2207,
+    "name": "Nightform Shaded",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2204,
+    "name": "Nightform Shadow",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2198,
+    "name": "Nightform Undercoat",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2197,
+    "name": "Nightform Wild Stripes",
+    "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2196,
+    "name": "Nightform Wraith",
+    "tier": 6,
     "opacity": 100
   },
   {
@@ -8817,6 +9813,12 @@
     "value": 1644,
     "name": "Nocturne Half Socks",
     "tier": 0,
+    "opacity": 100
+  },
+  {
+    "value": 2231,
+    "name": "Nocturne Inverted Brindle",
+    "tier": 4,
     "opacity": 100
   },
   {
@@ -8972,6 +9974,18 @@
   {
     "value": 1403,
     "name": "Opal Freckles",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2295,
+    "name": "Opal Gallus",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2294,
+    "name": "Opal Mosaic",
     "tier": 3,
     "opacity": 100
   },
@@ -9144,6 +10158,12 @@
     "opacity": 100
   },
   {
+    "value": 2232,
+    "name": "Pumice Inverted Brindle",
+    "tier": 4,
+    "opacity": 100
+  },
+  {
     "value": 1687,
     "name": "Pumice Inverted Cross",
     "tier": 1,
@@ -9255,6 +10275,12 @@
     "value": 187,
     "name": "Red Back Edge Patch",
     "tier": 1,
+    "opacity": 100
+  },
+  {
+    "value": 2216,
+    "name": "Red Brindle",
+    "tier": 4,
     "opacity": 100
   },
   {
@@ -9786,6 +10812,12 @@
     "opacity": 100
   },
   {
+    "value": 2239,
+    "name": "Saffron Brindle",
+    "tier": 10,
+    "opacity": 100
+  },
+  {
     "value": 1063,
     "name": "Saffron Cape",
     "tier": 6,
@@ -9996,6 +11028,12 @@
     "opacity": 100
   },
   {
+    "value": 2217,
+    "name": "Salt Brindle",
+    "tier": 4,
+    "opacity": 100
+  },
+  {
     "value": 2092,
     "name": "Salt Carnage",
     "tier": 8,
@@ -10058,6 +11096,18 @@
   {
     "value": 2048,
     "name": "Salt Merle",
+    "tier": 2,
+    "opacity": 100
+  },
+  {
+    "value": 2248,
+    "name": "Salt Merle Heavy",
+    "tier": 2,
+    "opacity": 100
+  },
+  {
+    "value": 2249,
+    "name": "Salt Merle Scarce",
     "tier": 2,
     "opacity": 100
   },
@@ -10512,6 +11562,12 @@
     "opacity": 100
   },
   {
+    "value": 2243,
+    "name": "Shedua Inverted Brindle",
+    "tier": 10,
+    "opacity": 100
+  },
+  {
     "value": 1015,
     "name": "Shedua Inverted Cross",
     "tier": 6,
@@ -10671,6 +11727,12 @@
     "value": 1619,
     "name": "Shell Bottoms",
     "tier": 0,
+    "opacity": 100
+  },
+  {
+    "value": 2218,
+    "name": "Shell Brindle",
+    "tier": 4,
     "opacity": 100
   },
   {
@@ -10838,6 +11900,18 @@
   {
     "value": 1721,
     "name": "Shell Merle",
+    "tier": 2,
+    "opacity": 100
+  },
+  {
+    "value": 2251,
+    "name": "Shell Merle Heavy",
+    "tier": 2,
+    "opacity": 100
+  },
+  {
+    "value": 2250,
+    "name": "Shell Merle Scarce",
     "tier": 2,
     "opacity": 100
   },
@@ -11706,6 +12780,30 @@
     "opacity": 100
   },
   {
+    "value": 2338,
+    "name": "Typhoon Argus",
+    "tier": 5,
+    "opacity": 100
+  },
+  {
+    "value": 2339,
+    "name": "Typhoon Cross",
+    "tier": 5,
+    "opacity": 100
+  },
+  {
+    "value": 2337,
+    "name": "Typhoon Ghast",
+    "tier": 5,
+    "opacity": 100
+  },
+  {
+    "value": 2336,
+    "name": "Typhoon Streaks",
+    "tier": 5,
+    "opacity": 100
+  },
+  {
     "value": 1331,
     "name": "Umbra Blight",
     "tier": 3,
@@ -11718,8 +12816,38 @@
     "opacity": 100
   },
   {
+    "value": 2310,
+    "name": "Umbra Crescent",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2311,
+    "name": "Umbra Crestline",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2309,
+    "name": "Umbra Lykoi",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2312,
+    "name": "Umbra Orca",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
     "value": 1332,
     "name": "Umbra Ornate Blotches",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2314,
+    "name": "Umbra Ornate Spots",
     "tier": 3,
     "opacity": 100
   },
@@ -11727,6 +12855,48 @@
     "value": 1333,
     "name": "Umbra Pulse",
     "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2313,
+    "name": "Umbra Shadow",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2308,
+    "name": "Umbra Sprite",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2315,
+    "name": "Umbra Wild Stripes",
+    "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2331,
+    "name": "Uumavoq Freckles",
+    "tier": 5,
+    "opacity": 100
+  },
+  {
+    "value": 2328,
+    "name": "Uumavoq Fringe",
+    "tier": 5,
+    "opacity": 100
+  },
+  {
+    "value": 2329,
+    "name": "Uumavoq Orca",
+    "tier": 5,
+    "opacity": 100
+  },
+  {
+    "value": 2330,
+    "name": "Uumavoq Peacock",
+    "tier": 5,
     "opacity": 100
   },
   {
@@ -11763,6 +12933,12 @@
     "value": 52,
     "name": "White Bottoms",
     "tier": 0,
+    "opacity": 100
+  },
+  {
+    "value": 2221,
+    "name": "White Brindle",
+    "tier": 4,
     "opacity": 100
   },
   {
@@ -11990,6 +13166,18 @@
   {
     "value": 25,
     "name": "White Merle",
+    "tier": 2,
+    "opacity": 100
+  },
+  {
+    "value": 2252,
+    "name": "White Merle Heavy",
+    "tier": 2,
+    "opacity": 100
+  },
+  {
+    "value": 2253,
+    "name": "White Merle Scarce",
     "tier": 2,
     "opacity": 100
   },
@@ -12276,6 +13464,12 @@
     "opacity": 100
   },
   {
+    "value": 2219,
+    "name": "Xanthic Brindle",
+    "tier": 4,
+    "opacity": 100
+  },
+  {
     "value": 2069,
     "name": "Xanthic Dilution",
     "tier": 8,
@@ -12332,6 +13526,18 @@
   {
     "value": 2068,
     "name": "Xanthic Merle",
+    "tier": 2,
+    "opacity": 100
+  },
+  {
+    "value": 2255,
+    "name": "Xanthic Merle Heavy",
+    "tier": 2,
+    "opacity": 100
+  },
+  {
+    "value": 2254,
+    "name": "Xanthic Merle Scarce",
     "tier": 2,
     "opacity": 100
   },
@@ -12429,6 +13635,12 @@
     "value": 95,
     "name": "Yellow Bottoms",
     "tier": 0,
+    "opacity": 100
+  },
+  {
+    "value": 2220,
+    "name": "Yellow Brindle",
+    "tier": 4,
     "opacity": 100
   },
   {
@@ -12564,6 +13776,18 @@
     "opacity": 100
   },
   {
+    "value": 2256,
+    "name": "Yellow Merle Heavy",
+    "tier": 2,
+    "opacity": 100
+  },
+  {
+    "value": 2257,
+    "name": "Yellow Merle Scarce",
+    "tier": 2,
+    "opacity": 100
+  },
+  {
     "value": 78,
     "name": "Yellow Neck Band",
     "tier": 0,
@@ -12687,6 +13911,12 @@
     "value": 68,
     "name": "Zircon Back",
     "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2240,
+    "name": "Zircon Brindle",
+    "tier": 10,
     "opacity": 100
   },
   {
