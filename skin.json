@@ -1,62 +1,66 @@
 [
   {
-    "value": 47,
+    "value": 42,
     "name": "Aarluk"
   },
   {
-    "value": 48,
+    "value": 43,
     "name": "Anomaly"
   },
   {
-    "value": 43,
+    "value": 38,
     "name": "Anteros"
   },
   {
-    "value": 42,
+    "value": 37,
     "name": "Antumbral"
   },
   {
-    "value": 25,
+    "value": 53,
+    "name": "Astraea"
+  },
+  {
+    "value": 20,
     "name": "Apollo"
   },
   {
-    "value": 7,
+    "value": 4,
     "name": "Bistre"
   },
   {
-    "value": 3,
+    "value": 5,
     "name": "Black"
   },
   {
-    "value": 28,
+    "value": 23,
     "name": "Blend"
   },
   {
-    "value": 11,
-    "name": "Blue"
+    "value": 6,
+    "name": "Bone"
   },
   {
-    "value": 4,
+    "value": 7,
     "name": "Brown"
   },
   {
-    "value": 31,
+    "value": 26,
     "name": "Chill"
   },
   {
-    "value": 26,
+    "value": 21,
     "name": "Conflux"
   },
   {
-    "value": 54,
+    "value": 49,
     "name": "Coral"
   },
   {
-    "value": 37,
+    "value": 32,
     "name": "Corrupt"
   },
   {
-    "value": 33,
+    "value": 28,
     "name": "Cynthius"
   },
   {
@@ -64,87 +68,71 @@
     "name": "Dark"
   },
   {
-    "value": 9,
-    "name": "Dark Brown"
-  },
-  {
-    "value": 29,
+    "value": 24,
     "name": "Dius"
   },
   {
-    "value": 34,
+    "value": 29,
     "name": "Duorum"
   },
   {
-    "value": 5,
-    "name": "Fallow"
-  },
-  {
-    "value": 21,
+    "value": 16,
     "name": "Fern"
   },
   {
-    "value": 30,
+    "value": 25,
     "name": "Fey"
   },
   {
-    "value": 45,
+    "value": 40,
     "name": "Fungus"
   },
   {
-    "value": 44,
+    "value": 39,
     "name": "Glazed"
   },
   {
-    "value": 16,
+    "value": 2,
     "name": "Gray"
   },
   {
-    "value": 38,
+    "value": 33,
     "name": "Grime"
   },
   {
-    "value": 53,
+    "value": 48,
     "name": "Leto"
   },
   {
-    "value": 15,
+    "value": 3,
     "name": "Light"
   },
   {
-    "value": 10,
-    "name": "Light Brown"
-  },
-  {
-    "value": 18,
+    "value": 13,
     "name": "Lunar"
   },
   {
-    "value": 19,
+    "value": 14,
     "name": "Lusxnei"
   },
   {
-    "value": 12,
-    "name": "Marbled"
-  },
-  {
-    "value": 23,
+    "value": 18,
     "name": "Moonbow"
   },
   {
-    "value": 27,
+    "value": 22,
     "name": "Mud"
   },
   {
-    "value": 52,
+    "value": 47,
     "name": "Mycelium"
   },
   {
-    "value": 20,
+    "value": 15,
     "name": "Noctiluca"
   },
   {
-    "value": 46,
+    "value": 41,
     "name": "Ooze"
   },
   {
@@ -152,71 +140,79 @@
     "name": "Oxblood"
   },
   {
-    "value": 13,
-    "name": "Pale"
-  },
-  {
-    "value": 14,
-    "name": "Pallid"
-  },
-  {
-    "value": 41,
+    "value": 36,
     "name": "Peat"
   },
   {
-    "value": 35,
+    "value": 30,
     "name": "Penumbral"
   },
   {
-    "value": 2,
-    "name": "Pink"
+    "value": 52,
+    "name": "Regolith"
   },
   {
-    "value": 32,
+    "value": 9,
+    "name": "Root"
+  },
+  {
+    "value": 27,
     "name": "Rouge"
   },
   {
-    "value": 24,
+    "value": 19,
     "name": "Sacer"
   },
   {
-    "value": 55,
-    "name": "Seep"
-  },
-  {
-    "value": 17,
-    "name": "Selenite"
-  },
-  {
-    "value": 39,
-    "name": "Spectre"
-  },
-  {
-    "value": 49,
-    "name": "Squall"
-  },
-  {
-    "value": 6,
-    "name": "Tan"
-  },
-  {
-    "value": 51,
-    "name": "Tywyll"
-  },
-  {
-    "value": 40,
-    "name": "Umbral"
-  },
-  {
-    "value": 22,
-    "name": "Verdigris"
+    "value": 10,
+    "name": "Sandy"
   },
   {
     "value": 50,
+    "name": "Seep"
+  },
+  {
+    "value": 12,
+    "name": "Selenite"
+  },
+  {
+    "value": 51,
+    "name": "Sitheach"
+  },
+  {
+    "value": 34,
+    "name": "Spectre"
+  },
+  {
+    "value": 44,
+    "name": "Squall"
+  },
+  {
+    "value": 54,
+    "name": "Torpor"
+  },
+  {
+    "value": 46,
+    "name": "Tywyll"
+  },
+  {
+    "value": 35,
+    "name": "Umbral"
+  },
+  {
+    "value": 17,
+    "name": "Verdigris"
+  },
+  {
+    "value": 45,
     "name": "Vile"
   },
   {
-    "value": 36,
+    "value": 11,
+    "name": "White"
+  },
+  {
+    "value": 31,
     "name": "Wild"
   }
 ]
