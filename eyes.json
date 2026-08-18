@@ -1,5 +1,9 @@
 [
   {
+    "value": 191,
+    "name": "Albedo"
+  },
+  {
     "value": 1,
     "name": "Amber"
   },
@@ -10,6 +14,10 @@
   {
     "value": 23,
     "name": "Azure"
+  },
+  {
+    "value": 146,
+    "name": "Beaver Moon"
   },
   {
     "value": 34,
@@ -100,6 +108,10 @@
     "name": "Cold"
   },
   {
+    "value": 147,
+    "name": "Cold Moon"
+  },
+  {
     "value": 69,
     "name": "Copper"
   },
@@ -122,6 +134,10 @@
   {
     "value": 55,
     "name": "Dark Hazel"
+  },
+  {
+    "value": 145,
+    "name": "Dorchas"
   },
   {
     "value": 25,
@@ -162,6 +178,10 @@
   {
     "value": 22,
     "name": "Fox"
+  },
+  {
+    "value": 193,
+    "name": "Frenzy"
   },
   {
     "value": 56,
@@ -212,6 +232,34 @@
     "name": "Hetero Amber & Gray"
   },
   {
+    "value": 149,
+    "name": "Hetero Azure & Indigo"
+  },
+  {
+    "value": 154,
+    "name": "Hetero Bioluminescent Blue & Bioluminescent Indigo"
+  },
+  {
+    "value": 155,
+    "name": "Hetero Bioluminescent Blue & Bioluminescent Teal"
+  },
+  {
+    "value": 153,
+    "name": "Hetero Bioluminescent Indigo & Bioluminescent Blue"
+  },
+  {
+    "value": 151,
+    "name": "Hetero Bioluminescent Indigo & Bioluminescent Teal"
+  },
+  {
+    "value": 156,
+    "name": "Hetero Bioluminescent Teal & Bioluminescent Blue"
+  },
+  {
+    "value": 152,
+    "name": "Hetero Bioluminescent Teal & Bioluminescent Indigo"
+  },
+  {
     "value": 14,
     "name": "Hetero Black & White"
   },
@@ -220,12 +268,72 @@
     "name": "Hetero Blue & Brown"
   },
   {
+    "value": 157,
+    "name": "Hetero Blue Moon & Violet"
+  },
+  {
     "value": 126,
     "name": "Hetero Bone & Smoke"
   },
   {
     "value": 17,
     "name": "Hetero Brown & Blue"
+  },
+  {
+    "value": 175,
+    "name": "Hetero Cold & Insomnium"
+  },
+  {
+    "value": 178,
+    "name": "Hetero Electric Blue & Electric Green"
+  },
+  {
+    "value": 176,
+    "name": "Hetero Electric Blue & Electric Pink"
+  },
+  {
+    "value": 180,
+    "name": "Hetero Electric Blue & Electric White"
+  },
+  {
+    "value": 179,
+    "name": "Hetero Electric Green & Electric Blue"
+  },
+  {
+    "value": 182,
+    "name": "Hetero Electric Green & Electric Pink"
+  },
+  {
+    "value": 187,
+    "name": "Hetero Electric Green & Electric White"
+  },
+  {
+    "value": 177,
+    "name": "Hetero Electric Pink & Electric Blue"
+  },
+  {
+    "value": 183,
+    "name": "Hetero Electric Pink & Electric Green"
+  },
+  {
+    "value": 185,
+    "name": "Hetero Electric Pink & Electric White"
+  },
+  {
+    "value": 181,
+    "name": "Hetero Electric White & Electric Blue"
+  },
+  {
+    "value": 186,
+    "name": "Hetero Electric White & Electric Green"
+  },
+  {
+    "value": 184,
+    "name": "Hetero Electric White & Electric Pink"
+  },
+  {
+    "value": 171,
+    "name": "Hetero Frost & Somnium"
   },
   {
     "value": 116,
@@ -248,20 +356,84 @@
     "name": "Hetero Husky & Hazel"
   },
   {
+    "value": 150,
+    "name": "Hetero Indigo & Azure"
+  },
+  {
+    "value": 174,
+    "name": "Hetero Insomnium & Cold"
+  },
+  {
+    "value": 172,
+    "name": "Hetero Insomnium & Saros"
+  },
+  {
+    "value": 159,
+    "name": "Hetero Lumino & Moonlight"
+  },
+  {
+    "value": 161,
+    "name": "Hetero Lux & Sapphire"
+  },
+  {
+    "value": 163,
+    "name": "Hetero Moonglow & Nightglow"
+  },
+  {
+    "value": 160,
+    "name": "Hetero Moonlight & Lumino"
+  },
+  {
+    "value": 164,
+    "name": "Hetero Nightglow & Moonglow"
+  },
+  {
     "value": 123,
     "name": "Hetero Novus & Holly"
+  },
+  {
+    "value": 165,
+    "name": "Hetero Purple & Saeculorum"
   },
   {
     "value": 121,
     "name": "Hetero Red & Storm"
   },
   {
+    "value": 166,
+    "name": "Hetero Saeculorum & Purple"
+  },
+  {
+    "value": 162,
+    "name": "Hetero Sapphire & Lux"
+  },
+  {
+    "value": 173,
+    "name": "Hetero Saros & Insomnium"
+  },
+  {
+    "value": 169,
+    "name": "Hetero Selenelion & Somnium"
+  },
+  {
     "value": 125,
     "name": "Hetero Smoke & Bone"
   },
   {
+    "value": 170,
+    "name": "Hetero Somnium & Frost"
+  },
+  {
+    "value": 168,
+    "name": "Hetero Somnium & Selenelion"
+  },
+  {
     "value": 122,
     "name": "Hetero Storm & Red"
+  },
+  {
+    "value": 158,
+    "name": "Hetero Violet & Blue Moon"
   },
   {
     "value": 15,
@@ -316,6 +488,10 @@
     "name": "Insomnium"
   },
   {
+    "value": 192,
+    "name": "Isuma"
+  },
+  {
     "value": 109,
     "name": "Lavender"
   },
@@ -350,6 +526,10 @@
   {
     "value": 73,
     "name": "Mercury"
+  },
+  {
+    "value": 189,
+    "name": "Metachrosis"
   },
   {
     "value": 110,
@@ -432,6 +612,10 @@
     "name": "Purple"
   },
   {
+    "value": 194,
+    "name": "Quake"
+  },
+  {
     "value": 92,
     "name": "Radiant"
   },
@@ -488,6 +672,10 @@
     "name": "Shagamaw"
   },
   {
+    "value": 190,
+    "name": "Sickle Moon"
+  },
+  {
     "value": 26,
     "name": "Smoke"
   },
@@ -536,6 +724,10 @@
     "name": "Total Eclipse"
   },
   {
+    "value": 188,
+    "name": "Totality"
+  },
+  {
     "value": 46,
     "name": "Tranquil"
   },
@@ -546,6 +738,10 @@
   {
     "value": 18,
     "name": "Violet"
+  },
+  {
+    "value": 167,
+    "name": "Virgo"
   },
   {
     "value": 86,
@@ -562,6 +758,10 @@
   {
     "value": 32,
     "name": "Wisp"
+  },
+  {
+    "value": 148,
+    "name": "Wolf Moon"
   },
   {
     "value": 64,
