@@ -16,6 +16,10 @@
     "name": "Antumbral"
   },
   {
+    "value": 53,
+    "name": "Astraea"
+  },
+  {
     "value": 20,
     "name": "Apollo"
   },
@@ -144,6 +148,10 @@
     "name": "Penumbral"
   },
   {
+    "value": 52,
+    "name": "Regolith"
+  },
+  {
     "value": 9,
     "name": "Root"
   },
@@ -168,12 +176,20 @@
     "name": "Selenite"
   },
   {
+    "value": 51,
+    "name": "Sitheach"
+  },
+  {
     "value": 34,
     "name": "Spectre"
   },
   {
     "value": 44,
     "name": "Squall"
+  },
+  {
+    "value": 54,
+    "name": "Torpor"
   },
   {
     "value": 46,
