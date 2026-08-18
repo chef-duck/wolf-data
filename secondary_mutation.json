@@ -35,8 +35,18 @@
     "overlay": 1
   },
   {
+    "value": "patchestar",
+    "name": "Patches: Tar",
+    "overlay": 1
+  },
+  {
     "value": "piebaldbiewer",
     "name": "Piebald: Biewer",
+    "overlay": 1
+  },
+  {
+    "value": "piebaldblaze",
+    "name": "Piebald: Blaze",
     "overlay": 1
   },
   {
@@ -52,6 +62,16 @@
   {
     "value": "piebaldfrontal",
     "name": "Piebald: Frontal",
+    "overlay": 1
+  },
+  {
+    "value": "piebaldkarakachan",
+    "name": "Piebald: Karakachan",
+    "overlay": 1
+  },
+  {
+    "value": "piebaldpaint",
+    "name": "Piebald: Paint",
     "overlay": 1
   },
   {
