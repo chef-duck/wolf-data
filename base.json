@@ -16,6 +16,10 @@
     "name": "Achilles"
   },
   {
+    "value": 245,
+    "name": "Acid"
+  },
+  {
     "value": 206,
     "name": "Agave"
   },
@@ -55,6 +59,10 @@
     "value": 186,
     "name": "Antumbra"
   },
+   {
+    "value": 223,
+    "name": "Aotrom"
+  },
   {
     "value": 148,
     "name": "Apex"
@@ -78,6 +86,10 @@
   {
     "value": 132,
     "name": "Artemis"
+  },
+  {
+    "value": 228,
+    "name": "Arthia"
   },
   {
     "value": 96,
@@ -114,6 +126,10 @@
   {
     "value": 147,
     "name": "Biform"
+  },
+    {
+    "value": 233,
+    "name": "Biochar"
   },
   {
     "value": 112,
@@ -208,6 +224,10 @@
     "name": "Cocoa"
   },
   {
+    "value": 235,
+    "name": "Collagen"
+  },
+  {
     "value": 149,
     "name": "Coot"
   },
@@ -228,6 +248,10 @@
     "name": "Corundum"
   },
   {
+    "value": 230,
+    "name": "Crayfish"
+  },
+  {
     "value": 22,
     "name": "Cream"
   },
@@ -240,8 +264,20 @@
     "name": "Cream Lighter"
   },
   {
+    "value": 240,
+    "name": "Crocus"
+  },
+  {
+    "value": 251,
+    "name": "Cryptid"
+  },
+  {
     "value": 189,
     "name": "Crystal"
+  },
+  {
+    "value": 244,
+    "name": "Cupcake"
   },
   {
     "value": 146,
@@ -250,6 +286,10 @@
   {
     "value": 34,
     "name": "Dark Brown"
+  },
+  {
+    "value": 250,
+    "name": "Dark Crystal"
   },
   {
     "value": 171,
@@ -308,6 +348,10 @@
     "name": "Fawn"
   },
   {
+    "value": 241,
+    "name": "Febris"
+  },
+  {
     "value": 118,
     "name": "Feldspar"
   },
@@ -328,12 +372,24 @@
     "name": "Fuath"
   },
   {
+    "value": 229,
+    "name": "Fulica"
+  },
+  {
+    "value": 224,
+    "name": "Gaelach"
+  },
+  {
     "value": 51,
     "name": "Galena"
   },
   {
     "value": 182,
     "name": "Ghost"
+  },
+  {
+    "value": 239,
+    "name": "Gaillo Antico"
   },
   {
     "value": 23,
@@ -388,6 +444,10 @@
     "name": "Grulla"
   },
   {
+    "value": 236,
+    "name": "Guilder"
+  },
+  {
     "value": 198,
     "name": "Gwyrdd"
   },
@@ -402,6 +462,10 @@
   {
     "value": 71,
     "name": "Henna"
+  },
+  {
+    "value": 247,
+    "name": "Hestia"
   },
   {
     "value": 98,
@@ -456,6 +520,10 @@
     "name": "Kin"
   },
   {
+    "value": 249,
+    "name": "Koma"
+  },
+  {
     "value": 154,
     "name": "Larimar"
   },
@@ -490,6 +558,10 @@
   {
     "value": 156,
     "name": "Lupin"
+  },
+  {
+    "value": 227,
+    "name": "Lynx"
   },
   {
     "value": 108,
@@ -548,6 +620,10 @@
     "name": "Monster"
   },
   {
+    "value": 225,
+    "name": "Moondust"
+  },
+  {
     "value": 125,
     "name": "Moonlight"
   },
@@ -560,12 +636,20 @@
     "name": "Moss"
   },
   {
+    "value": 226,
+    "name": "Narwhal"
+  },
+  {
     "value": 120,
     "name": "Nepheline"
   },
   {
     "value": 143,
     "name": "Nightchill"
+  },
+  {
+    "value": 248,
+    "name": "Nightform"
   },
   {
     "value": 208,
@@ -656,6 +740,10 @@
     "name": "Rime"
   },
   {
+    "value": 231,
+    "name": "Ruby Cocoa"
+  },
+  {
     "value": 159,
     "name": "Rufous"
   },
@@ -666,6 +754,10 @@
   {
     "value": 115,
     "name": "Rust"
+  },
+  {
+    "value": 237,
+    "name": "Rusticle"
   },
   {
     "value": 41,
@@ -680,8 +772,16 @@
     "name": "Sandy"
   },
   {
+    "value": 234,
+    "name": "Sap"
+  },
+  {
     "value": 188,
     "name": "Sappho"
+  },
+  {
+    "value": 232,
+    "name": "Saprolite"
   },
   {
     "value": 29,
@@ -690,6 +790,10 @@
   {
     "value": 65,
     "name": "Seal"
+  },
+  {
+    "value": 243,
+    "name": "Seed"
   },
   {
     "value": 122,
@@ -716,6 +820,10 @@
     "name": "Sidhe"
   },
   {
+    "value": 242,
+    "name": "Silica"
+  },
+  {
     "value": 6,
     "name": "Silver"
   },
@@ -740,6 +848,10 @@
     "name": "Slate"
   },
   {
+    "value": 246,
+    "name": "Smoked Salt"
+  },
+  {
     "value": 210,
     "name": "Snakeroot"
   },
@@ -758,6 +870,10 @@
   {
     "value": 155,
     "name": "Squid"
+  },
+  {
+    "value": 238,
+    "name": "Steel Blue"
   },
   {
     "value": 5,
@@ -828,8 +944,16 @@
     "name": "Turquoise"
   },
   {
+    "value": 252,
+    "name": "Typhoon"
+  },
+  {
     "value": 183,
     "name": "Umbra"
+  },
+  {
+    "value": 253,
+    "name": "Uumavoq"
   },
   {
     "value": 74,
