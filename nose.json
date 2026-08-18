@@ -20,6 +20,10 @@
     "name": "Apollo"
   },
   {
+    "value": 59,
+    "name": "Astraea"
+  },
+  {
     "value": 8,
     "name": "Bistre"
   },
@@ -172,6 +176,10 @@
     "name": "Pink"
   },
   {
+    "value": 58,
+    "name": "Regolith"
+  },
+  {
     "value": 33,
     "name": "Rouge"
   },
@@ -188,6 +196,10 @@
     "name": "Selenite"
   },
   {
+    "value": 57,
+    "name": "Sitheach"
+  },
+  {
     "value": 40,
     "name": "Spectre"
   },
@@ -198,6 +210,10 @@
   {
     "value": 2,
     "name": "Tan"
+  },
+  {
+    "value": 60,
+    "name": "Torpor"
   },
   {
     "value": 52,
