@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Abandoned Mine",
+    "url": "https://static.wolvden.com/images/backgrounds/all_AbandonedMine.png"
+  },
+  {
+    "name": "Abandoned Mineshaft",
+    "url": "https://static.wolvden.com/images/backgrounds/all_AbandonedMineshaft.png"
+  },
+  {
+    "name": "Ancient Swamp Tree",
+    "url": "https://static.wolvden.com/images/backgrounds/swamp_AncientSwampTree.png"
+  },
+  {
+    "name": "Arctic Tundra",
+    "url": "https://static.wolvden.com/images/backgrounds/tundra_ArcticTundra.png"
+  },
+  {
+    "name": "Arnica Meadow",
+    "url": "https://static.wolvden.com/images/backgrounds/_crafted_Arnica_Meadow.png"
+  },
+  {
+    "name": "Blooming Garlic",
+    "url": "https://static.wolvden.com/images/backgrounds/_crafted_Blooming_Garlic.png"
+  },
+  {
+    "name": "Blue Moon",
+    "url": "https://static.wolvden.com/images/backgrounds/special_bluemoon.png"
+  },
+  {
+    "name": "Boreal Forest",
+    "url": "https://static.wolvden.com/images/backgrounds/taiga_BorealForest.png"
+  },
+  {
+    "name": "Burrows Among the Roots",
+    "url": "https://static.wolvden.com/images/backgrounds/_crafted_BurrowsAmongtheRoots.png"
+  },
+  {
+    "name": "Canyon",
+    "url": "https://static.wolvden.com/images/backgrounds/desert_Canyon.png"
+  },
+  {
+    "name": "Chattering Parakeets",
+    "url": "https://static.wolvden.com/images/backgrounds/_crafted_Chattering_Parakeets.png"
+  },
+  {
+    "name": "Chilling Blue Jays",
+    "url": "https://static.wolvden.com/images/backgrounds/_crafted_Chilling_Blue_Jays.png"
+  },
+  {
+    "name": "Cold Cave",
+    "url": "https://static.wolvden.com/images/backgrounds/_crafted_Cold_Cave.png"
+  },
+  {
+    "name": "Dark Mangrove Forest",
+    "url": "https://static.wolvden.com/images/backgrounds/swamp_DarkMangroveForest.png"
+  },
+  {
+    "name": "Day Time",
+    "url": "https://static.wolvden.com/images/backgrounds/default_Daytime.png"
+  },
+  {
+    "name": "Deep Forest",
+    "url": "https://static.wolvden.com/images/backgrounds/conif_DeepForest.png"
+  },
+  {
+    "name": "Desolate Cave",
+    "url": "https://static.wolvden.com/images/backgrounds/_crafted_Desolate_Cave.png"
+  },
+  {
+    "name": "Dragonfly Creek",
+    "url": "https://static.wolvden.com/images/backgrounds/glacier_DragonflyCreek.png"
+  },
+  {
+    "name": "El Yunque Rainforest",
+    "url": "https://static.wolvden.com/images/backgrounds/rainforest_ElYunkueRainforest.png"
+  },
+  {
+    "name": "Ellesmere Island",
+    "url": "https://static.wolvden.com/images/backgrounds/glacier_EllesmereIsland.png"
+  },
+  {
+    "name": "Eternal Slumber",
+    "url": "https://static.wolvden.com/images/backgrounds/_crafted_Eternal_Slumber.png"
+  },
+  {
+    "name": "Falcon's Nest",
+    "url": "https://static.wolvden.com/images/backgrounds/_crafted_Falcons_Nest.png"
+  },
+  {
+    "name": "Fallen Tree",
+    "url": "https://static.wolvden.com/images/backgrounds/_crafted_Fallen_Tree.png"
+  },
+  {
+    "name": "Fields of Tansy",
+    "url": "https://static.wolvden.com/images/backgrounds/_crafted_Fields_of_Tansy.png"
+  },
+  {
+    "name": "Flickering Forest",
+    "url": "https://static.wolvden.com/images/backgrounds/decid_FlickeringForest.png"
+  },
+  {
+    "name": "Fluorescent Cave",
+    "url": "https://static.wolvden.com/images/backgrounds/Lunar_FluorescentCave.png"
+  },
+  {
+    "name": "Fungus Forest",
+    "url": "https://static.wolvden.com/images/backgrounds/Lunar_DF_FungusForest.png"
+  },
+  {
+    "name": "Golden Hills",
+    "url": "https://static.wolvden.com/images/backgrounds/grasslands_GoldenHills.png"
+  },
+  {
+    "name": "Great Bear Rainforest",
+    "url": "https://static.wolvden.com/images/backgrounds/rainforest_HaidaGwaii_GreatBearRainforest.png"
+  },
+  {
+    "name": "Green Meadow",
+    "url": "https://static.wolvden.com/images/backgrounds/_crafted_Green_Meadow.png"
+  },
+  {
+    "name": "Hoh Rainforest",
+    "url": "https://static.wolvden.com/images/backgrounds/rainforest_HohRainforest.png"
+  },
+  {
+    "name": "Hot Springs",
+    "url": "https://static.wolvden.com/images/backgrounds/all_HotSprings.png"
+  },
+  {
+    "name": "Hubbard Glacier",
+    "url": "https://static.wolvden.com/images/backgrounds/glacier_Hubbard_Glacier.png"
+  },
+  {
+    "name": "Hunting Barn Owl",
+    "url": "https://static.wolvden.com/images/backgrounds/_crafted_Hunting_Barn_Owl.png"
+  },
+  {
+    "name": "Ice Tunnel",
+    "url": "https://static.wolvden.com/images/backgrounds/glacier_IceTunnel.png"
+  },
+  {
+    "name": "Kissimmee Prairie",
+    "url": "https://static.wolvden.com/images/backgrounds/prairie_KissimeePrairie.png"
+  },
+  {
+    "name": "Klamath Basin",
+    "url": "https://static.wolvden.com/images/backgrounds/swamp_KlamathBasin.png"
+  },
+  {
+    "name": "Lacandon Jungle",
+    "url": "https://static.wolvden.com/images/backgrounds/rainforest_LacandonJungle.png"
+  },
+  {
+    "name": "Leftover Bones",
+    "url": "https://static.wolvden.com/images/backgrounds/_crafted_Leftover_Bones.png"
+  },
+  {
+    "name": "Long Range Mountains",
+    "url": "https://static.wolvden.com/images/backgrounds/mountains_LongRangeMountains.png"
+  },
+  {
+    "name": "Lunar Coniferous Forest",
+    "url": "https://static.wolvden.com/images/backgrounds/Lunar_Coniferous.png"
+  },
+  {
+    "name": "Lunar Deciduous Forest",
+    "url": "https://static.wolvden.com/images/backgrounds/Lunar_Deciduous.png"
+  },
+  {
+    "name": "Lunar Desert",
+    "url": "https://static.wolvden.com/images/backgrounds/Lunar_Desert.png"
+  },
+  {
+    "name": "Lunar Glacier",
+    "url": "https://static.wolvden.com/images/backgrounds/Lunar_Glacier.png"
+  },
+  {
+    "name": "Lunar Grasslands",
+    "url": "https://static.wolvden.com/images/backgrounds/Lunar_Grasslands.png"
+  },
+  {
+    "name": "Lunar Mountains",
+    "url": "https://static.wolvden.com/images/backgrounds/Lunar_Mountains.png"
+  },
+  {
+    "name": "Lunar Prairie",
+    "url": "https://static.wolvden.com/images/backgrounds/Lunar_Prairie.png"
+  },
+  {
+    "name": "Lunar Rainforest",
+    "url": "https://static.wolvden.com/images/backgrounds/Lunar_Rainforest.png"
+  },
+  {
+    "name": "Lunar Riparian Woodland",
+    "url": "https://static.wolvden.com/images/backgrounds/Lunar_Riparian.png"
+  },
+  {
+    "name": "Lunar Swamp",
+    "url": "https://static.wolvden.com/images/backgrounds/Lunar_Swamp.png"
+  },
+  {
+    "name": "Lunar Taiga",
+    "url": "https://static.wolvden.com/images/backgrounds/Lunar_Taiga.png"
+  },
+  {
+    "name": "Lunar Tundra",
+    "url": "https://static.wolvden.com/images/backgrounds/Lunar_Tundra.png"
+  },
+  {
+    "name": "Mendenhall Glacier",
+    "url": "https://static.wolvden.com/images/backgrounds/glacier_MendenhallGlacier.png"
+  },
+  {
+    "name": "Misty Trail",
+    "url": "https://static.wolvden.com/images/backgrounds/_seasonal_MistyTrail.png"
+  },
+  {
+    "name": "Moonlit Mines",
+    "url": "https://static.wolvden.com/images/backgrounds/special_moonlitmines.png"
+  },
+  {
+    "name": "Morning Mist in the Woods",
+    "url": "https://static.wolvden.com/images/backgrounds/conif_MorningMistInTheWoods.png"
+  },
+  {
+    "name": "Night Time",
+    "url": "https://static.wolvden.com/images/backgrounds/default_Nighttime.png"
+  },
+  {
+    "name": "Old Cottage",
+    "url": "https://static.wolvden.com/images/backgrounds/conif_OldCottage.png"
+  },
+  {
+    "name": "Old Railway",
+    "url": "https://static.wolvden.com/images/backgrounds/_crafted_OldRailway.png"
+  },
+  {
+    "name": "Overgrown Arches",
+    "url": "https://static.wolvden.com/images/backgrounds/_crafted_Overgrown_Arches.png"
+  },
+  {
+    "name": "Overgrown Cave",
+    "url": "https://static.wolvden.com/images/backgrounds/_crafted_Overgrown_Cave.png"
+  },
+  {
+    "name": "Overgrown Den",
+    "url": "https://static.wolvden.com/images/backgrounds/_crafted_Overgrown_Den.png"
+  },
+  {
+    "name": "Path of Boulders",
+    "url": "https://static.wolvden.com/images/backgrounds/_crafted_Path_Of_Boulders.png"
+  },
+  {
+    "name": "Raven Cliff",
+    "url": "https://static.wolvden.com/images/backgrounds/all_RavenCliff.png"
+  },
+  {
+    "name": "Redwood Shade",
+    "url": "https://static.wolvden.com/images/backgrounds/conif_RedwoodShade.png"
+  },
+  {
+    "name": "Roaming Chickens",
+    "url": "https://static.wolvden.com/images/backgrounds/_crafted_Roaming_Chickens.png"
+  },
+  {
+    "name": "Seaside Gull Flock",
+    "url": "https://static.wolvden.com/images/backgrounds/_crafted_Seaside_Gull_Flock.png"
+  },
+  {
+    "name": "Sentimental Icy Shore",
+    "url": "https://static.wolvden.com/images/backgrounds/glacier_SentimentalIcyShore.png"
+  },
+  {
+    "name": "Serene Swamp",
+    "url": "https://static.wolvden.com/images/backgrounds/Lunar_SW_SereneSwamp.png"
+  },
+  {
+    "name": "Shining Waterfall",
+    "url": "https://static.wolvden.com/images/backgrounds/Lunar_RW_ShiningWaterfall.png"
+  },
+  {
+    "name": "Shortgrass Prairie",
+    "url": "https://static.wolvden.com/images/backgrounds/prairie_ShortgrassPrairie.png"
+  },
+  {
+    "name": "Sleeping Giant",
+    "url": "https://static.wolvden.com/images/backgrounds/Lunar_GL_SleepingGiant.png"
+  },
+  {
+    "name": "Sunlit Cave",
+    "url": "https://static.wolvden.com/images/backgrounds/_crafted_Sunlit_Cave.png"
+  },
+  {
+    "name": "Swan Lake",
+    "url": "https://static.wolvden.com/images/backgrounds/_crafted_Swan_Lake.png"
+  },
+  {
+    "name": "The Mojave",
+    "url": "https://static.wolvden.com/images/backgrounds/desert_TheMojave.png"
+  },
+  {
+    "name": "Three Howling Wolves",
+    "url": "https://static.wolvden.com/images/backgrounds/special_threehowlingwolves.png"
+  },
+  {
+    "name": "Timberline of Denali",
+    "url": "https://static.wolvden.com/images/backgrounds/tundra_TimberlineOfDenali.png"
+  },
+  {
+    "name": "White Mountains",
+    "url": "https://static.wolvden.com/images/backgrounds/mountains_WhiteMountains.png"
+  },
+  {
+    "name": "Winterfat Trail",
+    "url": "https://static.wolvden.com/images/backgrounds/_crafted_Winterfat_Trail.png"
+  },
+  {
+    "name": "Yosemite Valley",
+    "url": "https://static.wolvden.com/images/backgrounds/mountains_Yosemite.png"
+  },
+  {
+    "name": "[Canada] Alberta - Bow River",
+    "url": "https://static.wolvden.com/images/backgrounds/taiga_Canada_Alberta_BowRiver.png"
+  },
+  {
+    "name": "[Canada] Labrador - Torngat Mountains",
+    "url": "https://static.wolvden.com/images/backgrounds/tundra_Canada_Labrador_TorngatMountains.png"
+  },
+  {
+    "name": "[Canada] Manitoba - Lapland Rosebay",
+    "url": "https://static.wolvden.com/images/backgrounds/tundra_Canada_Manitoba_LaplandRosebay.png"
+  },
+  {
+    "name": "[Canada] New Brunswick - Hopewell Rocks",
+    "url": "https://static.wolvden.com/images/backgrounds/taiga_Canada_NewBrunswick_HopewellRocks.png"
+  },
+  {
+    "name": "[Canada] Newfoundland - Gros Morne",
+    "url": "https://static.wolvden.com/images/backgrounds/tundra_Canada_NewFoundland_GrosMorne.png"
+  },
+  {
+    "name": "[Canada] Nova Scotia - Cape Breton",
+    "url": "https://static.wolvden.com/images/backgrounds/taiga_Canada_NovaScotia_CapeBreton.png"
+  },
+  {
+    "name": "[Canada] Nunavut - Auyuittuq National Park",
+    "url": "https://static.wolvden.com/images/backgrounds/tundra_Canada_Nunavut_Auyuittuq.png"
+  },
+  {
+    "name": "[Canada] Ontario - Algonquin Park",
+    "url": "https://static.wolvden.com/images/backgrounds/conif_Canada_Ontario_AlqonquinPark.png"
+  },
+  {
+    "name": "[Canada] Quebec - Frozen Lakes",
+    "url": "https://static.wolvden.com/images/backgrounds/taiga_Canada_Quebec_FrozenLakes.png"
+  },
+  {
+    "name": "[Canada] Saskatchewan - Summer Aspen Forest",
+    "url": "https://static.wolvden.com/images/backgrounds/taiga_Canada_Saskatchewan_SummerAspenForest.png"
+  },
+  {
+    "name": "[Canada] Yukon - Icy Shores",
+    "url": "https://static.wolvden.com/images/backgrounds/glacier_Canada_YukonsIcyShores.png"
+  },
+  {
+    "name": "[Middle America] Guatemala - Sierra Madre",
+    "url": "https://static.wolvden.com/images/backgrounds/rainforest_MA_Guatemala_SierraMadre.png"
+  },
+  {
+    "name": "[Middle America] Panama - Chagres River",
+    "url": "https://static.wolvden.com/images/backgrounds/rainforest_Panama_ChagresRiver.png"
+  },
+  {
+    "name": "[USA] Alabama - Little River Canyon",
+    "url": "https://static.wolvden.com/images/backgrounds/riparian_USA_Alabama_LittleRiverCanyon.png"
+  },
+  {
+    "name": "[USA] Alaska - Aleutian Islands",
+    "url": "https://static.wolvden.com/images/backgrounds/tundra_USA_Alaska_AleutianIslands.png"
+  },
+  {
+    "name": "[USA] Arizona - The Buttes",
+    "url": "https://static.wolvden.com/images/backgrounds/desert_USA_Arizona_TheButtes.png"
+  },
+  {
+    "name": "[USA] Arkansas - Ozark National Forest",
+    "url": "https://static.wolvden.com/images/backgrounds/decid_USA_Arkansas_OzarkNationalForest.png"
+  },
+  {
+    "name": "[USA] California - Coachella Valley",
+    "url": "https://static.wolvden.com/images/backgrounds/riparian_USA_California_CoachellaValley.png"
+  },
+  {
+    "name": "[USA] Colorado - Elk Mountains",
+    "url": "https://static.wolvden.com/images/backgrounds/mountains_USA_Colorado_ElkMountains.png"
+  },
+  {
+    "name": "[USA] Connecticut - Fields",
+    "url": "https://static.wolvden.com/images/backgrounds/grasslands_USA_Connecticut_Fields.png"
+  },
+  {
+    "name": "[USA] Delaware - Bombay Hook",
+    "url": "https://static.wolvden.com/images/backgrounds/swamp_USA_Delaware_BombayHook.png"
+  },
+  {
+    "name": "[USA] Georgia - Providence Canyon",
+    "url": "https://static.wolvden.com/images/backgrounds/mountains_USA_Georgia_ProvidenceMountains.png"
+  },
+  {
+    "name": "[USA] Hawaii - Wildlife Refuge",
+    "url": "https://static.wolvden.com/images/backgrounds/rainforest_USA_Hawaii_WildlifeRefuge.png"
+  },
+  {
+    "name": "[USA] Idaho - City of Rocks",
+    "url": "https://static.wolvden.com/images/backgrounds/desert_USA_Idaho_CityOfRocks.png"
+  },
+  {
+    "name": "[USA] Illinois - Farmlands",
+    "url": "https://static.wolvden.com/images/backgrounds/grassland_USA_Illinois_Farmlands.png"
+  },
+  {
+    "name": "[USA] Indiana - Cornfields",
+    "url": "https://static.wolvden.com/images/backgrounds/prairie_USA_Indiana_Cornfields.png"
+  },
+  {
+    "name": "[USA] Kansas - Twisters",
+    "url": "https://static.wolvden.com/images/backgrounds/prairie_USA_Kansas_Twisters.png"
+  },
+  {
+    "name": "[USA] Kentucky - Red River",
+    "url": "https://static.wolvden.com/images/backgrounds/riparian_USA_Kentucky_RedRiver.png"
+  },
+  {
+    "name": "[USA] Louisiana - Atchafalaya Swamp",
+    "url": "https://static.wolvden.com/images/backgrounds/swamp_USA_Louisiana_AtchafalayaSwamp.png"
+  },
+  {
+    "name": "[USA] Maine - Acadia National Forest",
+    "url": "https://static.wolvden.com/images/backgrounds/coniferous_USA_Maine_AcadiaNationalForest.png"
+  },
+  {
+    "name": "[USA] Maryland - Calvert Cliffs",
+    "url": "https://static.wolvden.com/images/backgrounds/grassland_USA_Maryland_CalvertCliffs.png"
+  },
+  {
+    "name": "[USA] Massachusetts - Quabbin Reservoir",
+    "url": "https://static.wolvden.com/images/backgrounds/grassland_USA_Massachusetts_QuabbinReservoir.png"
+  },
+  {
+    "name": "[USA] Michigan - Pictured Rocks",
+    "url": "https://static.wolvden.com/images/backgrounds/coniferous_USA_Michigan_PicturedRocks.png"
+  },
+  {
+    "name": "[USA] Minnesota - Boundary Waters",
+    "url": "https://static.wolvden.com/images/backgrounds/riparian_USA_Minnesota_BoundaryWaters.png"
+  },
+  {
+    "name": "[USA] Mississippi - Greenville Cypress Preserve",
+    "url": "https://static.wolvden.com/images/backgrounds/swamp_USA_Mississippi_GreenvilleCypressPreserve.png"
+  },
+  {
+    "name": "[USA] Missouri - The Ozarks",
+    "url": "https://static.wolvden.com/images/backgrounds/decid_USA_Missouri_TheOzarks.png"
+  },
+  {
+    "name": "[USA] Nebraska - Chadron State Park",
+    "url": "https://static.wolvden.com/images/backgrounds/prairie_USA_Nebraska_ChadronStatePark.png"
+  },
+  {
+    "name": "[USA] Nevada - Red Rock Canyon",
+    "url": "https://static.wolvden.com/images/backgrounds/desert_USA_Nevada_RedRockCanyon.png"
+  },
+  {
+    "name": "[USA] New Hampshire - Waterfall",
+    "url": "https://static.wolvden.com/images/backgrounds/decid_USA_NewHampshire_Waterfall.png"
+  },
+  {
+    "name": "[USA] New Jersey - The Palisades",
+    "url": "https://static.wolvden.com/images/backgrounds/riparian_USA_NewJersey_ThePallisades.png"
+  },
+  {
+    "name": "[USA] New Mexico - Rio Grande",
+    "url": "https://static.wolvden.com/images/backgrounds/riparian_USA_NewMexico_RioGrande.png"
+  },
+  {
+    "name": "[USA] North Carolina - Blue Ridge Mountains",
+    "url": "https://static.wolvden.com/images/backgrounds/decid_USA_NorthCarolina_BlueRidgeMountains.png"
+  },
+  {
+    "name": "[USA] Oklahoma - Black Mesa",
+    "url": "https://static.wolvden.com/images/backgrounds/prairie_USA_Oklahoma_BlackMesa.png"
+  },
+  {
+    "name": "[USA] Oregon - Oregon Coast",
+    "url": "https://static.wolvden.com/images/backgrounds/taiga_States_Oregon_OregonCoast.png"
+  },
+  {
+    "name": "[USA] Pennsylvania - Amish Country",
+    "url": "https://static.wolvden.com/images/backgrounds/grassland_USA_Pennsylvania_AmishCountry.png"
+  },
+  {
+    "name": "[USA] Rhode Island - Oceanfront Beach",
+    "url": "https://static.wolvden.com/images/backgrounds/grassland_USA_RhodeIsland_OceanfrontBeach.png"
+  },
+  {
+    "name": "[USA] South Carolina - The Oak Tree Forest",
+    "url": "https://static.wolvden.com/images/backgrounds/decid_USA_SouthCarolina_OakForest.png"
+  },
+  {
+    "name": "[USA] South Dakota - Badlands",
+    "url": "https://static.wolvden.com/images/backgrounds/desert_USA_SouthDakota_Badlands.png"
+  },
+  {
+    "name": "[USA] Tennessee - Great Smoky Mountains",
+    "url": "https://static.wolvden.com/images/backgrounds/mountains_USA_Tennessee_GreatSmokyMountains.png"
+  },
+  {
+    "name": "[USA] Texas - Chisos",
+    "url": "https://static.wolvden.com/images/backgrounds/prairie_Texas_Chisos.png"
+  },
+  {
+    "name": "[USA] Utah - Bryce Canyon",
+    "url": "https://static.wolvden.com/images/backgrounds/desert_USA_Utah_BryceCanyon.png"
+  },
+  {
+    "name": "[USA] Vermont - Quechee Gorge",
+    "url": "https://static.wolvden.com/images/backgrounds/riparian_USA_Vermont_QuecheeGorge.png"
+  },
+  {
+    "name": "[USA] Virginia - Great Dismal Swamp",
+    "url": "https://static.wolvden.com/images/backgrounds/swamp_USA_Virginia_GreatDismalSwamp.png"
+  },
+  {
+    "name": "[USA] West Virginia - Beartown",
+    "url": "https://static.wolvden.com/images/backgrounds/decid_USA_WestVirginia_Beartown.png"
+  },
+  {
+    "name": "[USA] Wyoming - Grand Teton",
+    "url": "https://static.wolvden.com/images/backgrounds/mountains_USA_Wyoming_GrandTeton.png"
+  }
+]
