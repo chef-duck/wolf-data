@@ -624,6 +624,12 @@
     "opacity": 100
   },
   {
+    "value": 2341,
+    "name": "Argent Raptor",
+    "tier": 5,
+    "opacity": 100
+  },
+  {
     "value": 2030,
     "name": "Argent Soay Unders",
     "tier": 6,
@@ -1185,6 +1191,12 @@
     "value": 1137,
     "name": "Aspen Predator",
     "tier": 1,
+    "opacity": 100
+  },
+  {
+    "value": 2342,
+    "name": "Aspen Raptor",
+    "tier": 5,
     "opacity": 100
   },
   {
@@ -1875,6 +1887,12 @@
     "value": 645,
     "name": "Beige Predator",
     "tier": 1,
+    "opacity": 100
+  },
+  {
+    "value": 2345,
+    "name": "Beige Raptor",
+    "tier": 5,
     "opacity": 100
   },
   {
@@ -3666,6 +3684,12 @@
     "opacity": 100
   },
   {
+    "value": 2346,
+    "name": "Cedar Raptor",
+    "tier": 5,
+    "opacity": 100
+  },
+  {
     "value": 1196,
     "name": "Cedar Sallander",
     "tier": 8,
@@ -4365,6 +4389,12 @@
     "value": 433,
     "name": "Cream Predator",
     "tier": 1,
+    "opacity": 100
+  },
+  {
+    "value": 2349,
+    "name": "Cream Raptor",
+    "tier": 5,
     "opacity": 100
   },
   {
@@ -5424,6 +5454,12 @@
     "opacity": 100
   },
   {
+    "value": 2350,
+    "name": "Deira Raptor",
+    "tier": 5,
+    "opacity": 100
+  },
+  {
     "value": 1318,
     "name": "Deira Shimmer",
     "tier": 6,
@@ -6087,6 +6123,12 @@
     "value": 300,
     "name": "Doubloon Patchy Unders",
     "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2353,
+    "name": "Doubloon Raptor",
+    "tier": 5,
     "opacity": 100
   },
   {
@@ -8016,6 +8058,12 @@
     "opacity": 100
   },
   {
+    "value": 2354,
+    "name": "Honey Raptor",
+    "tier": 5,
+    "opacity": 100
+  },
+  {
     "value": 1493,
     "name": "Honey Sakiz Mask",
     "tier": 8,
@@ -8619,6 +8667,12 @@
     "value": 1398,
     "name": "Lavender Peacock",
     "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2357,
+    "name": "Lavender Raptor",
+    "tier": 5,
     "opacity": 100
   },
   {
@@ -10068,6 +10122,12 @@
     "opacity": 100
   },
   {
+    "value": 2358,
+    "name": "Opal Raptor",
+    "tier": 5,
+    "opacity": 100
+  },
+  {
     "value": 1315,
     "name": "Opal Shimmer",
     "tier": 3,
@@ -11007,6 +11067,12 @@
     "value": 1078,
     "name": "Saffron Patchy Unders",
     "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2361,
+    "name": "Saffron Raptor",
+    "tier": 5,
     "opacity": 100
   },
   {
@@ -12051,6 +12117,12 @@
     "value": 1694,
     "name": "Shell Predator",
     "tier": 1,
+    "opacity": 100
+  },
+  {
+    "value": 2363,
+    "name": "Shell Raptor",
+    "tier": 5,
     "opacity": 100
   },
   {
@@ -13344,6 +13416,12 @@
     "opacity": 100
   },
   {
+    "value": 2369,
+    "name": "White Raptor",
+    "tier": 5,
+    "opacity": 100
+  },
+  {
     "value": 863,
     "name": "White Sallander",
     "tier": 8,
@@ -13911,6 +13989,12 @@
     "value": 77,
     "name": "Yellow Patchy Unders",
     "tier": 1,
+    "opacity": 100
+  },
+  {
+    "value": 2370,
+    "name": "Yellow Raptor",
+    "tier": 5,
     "opacity": 100
   },
   {
