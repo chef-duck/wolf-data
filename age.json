@@ -10,5 +10,13 @@
   {
     "value": 8,
     "stage": "Puppy"
+  },
+  {
+    "value": 3,
+    "stage": "Young Puppy"
+  },
+  {
+    "value": 1,
+    "stage": "Newborn Puppy"
   }
 ]
