@@ -3480,7 +3480,7 @@
     "opacity": 100
   },
   {
-    "value": 2347
+    "value": 2347,
     "name": "Cedar Epoch",
     "tier": 5,
     "opacity": 100
@@ -10984,7 +10984,7 @@
     "name": "Saffron Epoch",
     "tier": 5,
     "opacity": 100
-  }
+  },
   {
     "value": 1066,
     "name": "Saffron Gentle Unders",
