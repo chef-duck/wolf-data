@@ -438,6 +438,12 @@
     "opacity": 100
   },
   {
+    "value": 2340,
+    "name": "Argent Epoch",
+    "tier": 5,
+    "opacity": 100
+  },
+  {
     "value": 2006,
     "name": "Argent Eyebrows",
     "tier": 6,
@@ -963,6 +969,12 @@
     "value": 1165,
     "name": "Aspen Elbows",
     "tier": 0,
+    "opacity": 100
+  },
+  {
+    "value": 2343,
+    "name": "Aspen Epoch",
+    "tier": 5,
     "opacity": 100
   },
   {
@@ -1701,6 +1713,12 @@
     "value": 629,
     "name": "Beige Elbows",
     "tier": 0,
+    "opacity": 100
+  },
+  {
+    "value": 2344,
+    "name": "Beige Epoch",
+    "tier": 5,
     "opacity": 100
   },
   {
@@ -3444,6 +3462,12 @@
     "opacity": 100
   },
   {
+    "value": 2347
+    "name": "Cedar Epoch",
+    "tier": 5,
+    "opacity": 100
+  },
+  {
     "value": 1224,
     "name": "Cedar Eyebrows",
     "tier": 1,
@@ -4137,6 +4161,12 @@
     "value": 456,
     "name": "Cream Elbows",
     "tier": 0,
+    "opacity": 100
+  },
+  {
+    "value": 2348,
+    "name": "Cream Epoch",
+    "tier": 5,
     "opacity": 100
   },
   {
@@ -5274,6 +5304,12 @@
     "opacity": 100
   },
   {
+    "value": 2351,
+    "name": "Deira Epoch",
+    "tier": 5,
+    "opacity": 100
+  },
+  {
     "value": 366,
     "name": "Deira Eyebrows",
     "tier": 6,
@@ -5931,6 +5967,12 @@
     "value": 313,
     "name": "Doubloon Ear Tips",
     "tier": 6,
+    "opacity": 100
+  },
+  {
+    "value": 2352,
+    "name": "Doubloon Epoch",
+    "tier": 5,
     "opacity": 100
   },
   {
@@ -6621,6 +6663,18 @@
     "value": 1799,
     "name": "Fenestra Sprite",
     "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2364,
+    "name": "Fossil Epoch",
+    "tier": 5,
+    "opacity": 100
+  },
+  {
+    "value": 2365,
+    "name": "Fossil Raptor",
+    "tier": 5,
     "opacity": 100
   },
   {
@@ -7764,6 +7818,12 @@
     "opacity": 100
   },
   {
+    "value": 2355,
+    "name": "Honey Epoch",
+    "tier": 5,
+    "opacity": 100
+  },
+  {
     "value": 221,
     "name": "Honey Eyebrows",
     "tier": 1,
@@ -8529,6 +8589,12 @@
     "value": 1812,
     "name": "Lavender Argus",
     "tier": 3,
+    "opacity": 100
+  },
+  {
+    "value": 2356,
+    "name": "Lavender Epoch",
+    "tier": 5,
     "opacity": 100
   },
   {
@@ -9972,6 +10038,12 @@
     "opacity": 100
   },
   {
+    "value": 2359,
+    "name": "Opal Epoch",
+    "tier": 5,
+    "opacity": 100
+  },
+  {
     "value": 1403,
     "name": "Opal Freckles",
     "tier": 3,
@@ -10847,6 +10919,12 @@
     "tier": 6,
     "opacity": 100
   },
+  {
+    "value": 2360,
+    "name": "Saffron Epoch",
+    "tier": 5,
+    "opacity": 100
+  }
   {
     "value": 1066,
     "name": "Saffron Gentle Unders",
@@ -11790,6 +11868,12 @@
     "opacity": 100
   },
   {
+    "value": 2362,
+    "name": "Shell Epoch",
+    "tier": 5,
+    "opacity": 100
+  },
+  {
     "value": 1678,
     "name": "Shell Eyebrows",
     "tier": 1,
@@ -12504,6 +12588,18 @@
     "opacity": 100
   },
   {
+    "value": 2367,
+    "name": "Striped Flint Epoch",
+    "tier": 5,
+    "opacity": 100
+  },
+  {
+    "value": 2366,
+    "name": "Striped Flint Raptor",
+    "tier": 5,
+    "opacity": 100
+  },
+  {
     "value": 988,
     "name": "Tempest Agouti",
     "tier": 3,
@@ -13017,6 +13113,12 @@
     "value": 42,
     "name": "White Elbows",
     "tier": 0,
+    "opacity": 100
+  },
+  {
+    "value": 2368,
+    "name": "White Epoch",
+    "tier": 5,
     "opacity": 100
   },
   {
@@ -13677,6 +13779,12 @@
     "value": 91,
     "name": "Yellow Ear Tips",
     "tier": 1,
+    "opacity": 100
+  },
+  {
+    "value": 2371,
+    "name": "Yellow Epoch",
+    "tier": 5,
     "opacity": 100
   },
   {
